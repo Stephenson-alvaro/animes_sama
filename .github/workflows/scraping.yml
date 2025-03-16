@@ -19,6 +19,17 @@ jobs:
       - name: Exécuter le scraper
         run: python scraper.py
 
+      - name: Vérifier la présence du fichier animes.json
+        run: |
+          echo "Contenu du répertoire avant suppression du fichier:"
+          ls -l
+          if [ -f "animes.json" ]; then
+            echo "Le fichier animes.json existe."
+          else
+            echo "Le fichier animes.json n'existe pas."
+            exit 1
+          fi
+
       - name: Supprimer l'ancien fichier animes.json (s'il existe)
         run: |
           if [ -f animes.json ]; then
