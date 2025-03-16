@@ -24,16 +24,23 @@ jobs:
         run: |
           pip install -r requirements.txt  # Installer les dépendances
 
+      - name: Supprimer l'ancien fichier JSON
+        run: |
+          if [ -f "seasonal_animes.json" ]; then
+            rm seasonal_animes.json
+          fi
+
       - name: Run scraping script
         run: |
           python scraper.py  # Exécute ton script Python
 
-      - name: Commit and push results
+      - name: Configurer Git
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add animes.json  # Ajoute le fichier généré
-          git commit -m "Ajout des résultats du scraping" || echo "Aucun changement à committer"  # Commit du fichier
-          git push https://github.com/Stephenson-alvaro/animes_sama.git HEAD:main  # Pousse les changements sur la branche main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
+      - name: Enregistrer les données dans le dépôt
+        run: |
+          git add animes.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Mise à jour des données d'anime"
+          git push
