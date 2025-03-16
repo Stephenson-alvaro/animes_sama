@@ -1,8 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import logging
 
-# URL de base du site (modifie si nécessaire)
+# Configurer le logging pour enregistrer les informations dans un fichier
+logging.basicConfig(filename='scraping.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
+# URL de base du site
 BASE_URL = "https://anime-sama.fr/catalogue?page="
 
 # Liste pour stocker les résultats
@@ -13,12 +17,12 @@ page = 1
 
 while True:
     url = f"{BASE_URL}{page}"
-    print(f"Scraping page {page}...")  # Affichage de progression
+    logging.info(f"Scraping page {page}...")  # Remplacer print par logging
 
     # Récupération du contenu HTML
     response = requests.get(url)
     if response.status_code != 200:
-        print(f"Fin du scraping à la page {page - 1}.")
+        logging.info(f"Fin du scraping à la page {page - 1}.")
         break  # Arrêter si la page n'existe pas
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -42,7 +46,7 @@ while True:
             found_anime = True
 
     if not found_anime:  # Si aucune anime n'est trouvé, arrêter
-        print(f"Aucune donnée trouvée sur la page {page}. Arrêt du scraping.")
+        logging.info(f"Aucune donnée trouvée sur la page {page}. Arrêt du scraping.")
         break
 
     page += 1  # Passer à la page suivante
@@ -51,4 +55,4 @@ while True:
 with open("animes.json", "w", encoding="utf-8") as f:
     json.dump(animes, f, ensure_ascii=False, indent=4)
 
-print(f"Scraping terminé ! {len(animes)} animes enregistrés dans animes.json.")
+logging.info(f"Scraping terminé ! {len(animes)} animes enregistrés dans animes.json.")
