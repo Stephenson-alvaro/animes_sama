@@ -1,18 +1,8 @@
 [
     {
-        "titre": "#DRCL midnight children",
-        "lien": "https://anime-sama.fr/catalogue/drcl-midnight-children/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drcl-midnight-children0.jpg"
-    },
-    {
         "titre": "'Tis Time for \"Torture,\" Princess",
         "lien": "https://anime-sama.fr/catalogue/tis-time-for-torture-princess",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tis-time-for-torture-princess.jpg"
-    },
-    {
-        "titre": "100 Jours Avant Ta Mort",
-        "lien": "https://anime-sama.fr/catalogue/100-jours-avant-ta-mort/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/100-jours-avant-ta-mort0.jpg"
     },
     {
         "titre": "16bit Sensation: Another Layer",
@@ -30,11 +20,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/2.5-jigen-no-ririsa.jpg"
     },
     {
-        "titre": "20th Century boys",
-        "lien": "https://anime-sama.fr/catalogue/20th-century-boys",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/20th-century-boys.jpg"
-    },
-    {
         "titre": "365 Days To The Wedding",
         "lien": "https://anime-sama.fr/catalogue/365-days-to-the-wedding",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/365-days-to-the-wedding.jpg"
@@ -48,11 +33,6 @@
         "titre": "5cm per second",
         "lien": "https://anime-sama.fr/catalogue/5-cm-per-second/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/5-cm-per-second.jpg"
-    },
-    {
-        "titre": "66,666 Years Advent Of the Dark Mage",
-        "lien": "https://anime-sama.fr/catalogue/66666-years-advent-of-the-dark-mage",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/66666-years-advent-of-the-dark-mage.jpg"
     },
     {
         "titre": "7 Jours",
@@ -78,11 +58,6 @@
         "titre": "91 Days",
         "lien": "https://anime-sama.fr/catalogue/91-days/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/91-days0.jpg"
-    },
-    {
-        "titre": "99 Reinforced Wood stick",
-        "lien": "https://anime-sama.fr/catalogue/99-reinforced-wood-stick",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/99-reinforced-wood-stick.jpg"
     },
     {
         "titre": "A Centaur's Life",
@@ -160,34 +135,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/a-i-c-o-incarnation.jpg"
     },
     {
-        "titre": "Absolute Dominion",
-        "lien": "https://anime-sama.fr/catalogue/absolute-dominion",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/absolute-dominion.jpg"
-    },
-    {
         "titre": "Absolute Duo",
         "lien": "https://anime-sama.fr/catalogue/absolute-duo",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/absolute-duo.jpg"
-    },
-    {
-        "titre": "Absolute Necromancer",
-        "lien": "https://anime-sama.fr/catalogue/absolute-necromancer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/absolute-necromancer.jpg"
-    },
-    {
-        "titre": "Absolute Regression",
-        "lien": "https://anime-sama.fr/catalogue/absolute-regression",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/absolute-regression.jpg"
-    },
-    {
-        "titre": "Absolute Sword Sense",
-        "lien": "https://anime-sama.fr/catalogue/absolute-sword-sense",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/absolute-sword-sense.jpg"
-    },
-    {
-        "titre": "Academy's Genius Swordmaster",
-        "lien": "https://anime-sama.fr/catalogue/academys-genius-swordmaster",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/academys-genius-swordmaster.jpg"
     },
     {
         "titre": "ACCA 13-Ku Kansatsu-Ka",
@@ -220,19 +170,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/actually-i-am.jpg"
     },
     {
-        "titre": "Adabana",
-        "lien": "https://anime-sama.fr/catalogue/adabana",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/adabana.jpg"
-    },
-    {
         "titre": "Adachi to Shimamura",
         "lien": "https://anime-sama.fr/catalogue/adachi-to-shimamura",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/adachi-to-shimamura.jpg"
-    },
-    {
-        "titre": "Adventure Time",
-        "lien": "https://anime-sama.fr/catalogue/adventure-time",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/adventure-time.jpg"
     },
     {
         "titre": "Afro Samurai",
@@ -243,11 +183,6 @@
         "titre": "Afterlife Inn Cooking",
         "lien": "https://anime-sama.fr/catalogue/afterlife-inn-cooking",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/afterlife-inn-cooking.jpg"
-    },
-    {
-        "titre": "Aggretsuko",
-        "lien": "https://anime-sama.fr/catalogue/aggretsuko",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/aggretsuko.jpg"
     },
     {
         "titre": "Aharen-san wa Hakarenai",
@@ -283,11 +218,6 @@
         "titre": "Akame Ga Kill",
         "lien": "https://anime-sama.fr/catalogue/akame-ga-kill/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/akame-ga-kill.jpg"
-    },
-    {
-        "titre": "Akane Banashi",
-        "lien": "https://anime-sama.fr/catalogue/akane-banashi",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/akane-banashi.jpg"
     },
     {
         "titre": "Akashic Records",
@@ -340,34 +270,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/alice-and-zoroku.jpg"
     },
     {
-        "titre": "Alice in Borderland",
-        "lien": "https://anime-sama.fr/catalogue/alice-in-borderland",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/alice-in-borderland.jpg"
-    },
-    {
-        "titre": "Alice in Borderland Retry",
-        "lien": "https://anime-sama.fr/catalogue/alice-in-borderland-retry",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/alice-in-borderland-retry.jpg"
-    },
-    {
-        "titre": "Alice in Borderlands",
-        "lien": "https://anime-sama.fr/catalogue/alice-in-borderlands",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/alice-in-borderlands.jpg"
-    },
-    {
-        "titre": "All of Us Are Dead",
-        "lien": "https://anime-sama.fr/catalogue/all-of-us-are-dead",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/all-of-us-are-dead.jpg"
-    },
-    {
         "titre": "All Out",
         "lien": "https://anime-sama.fr/catalogue/all-out",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/all-out.jpg"
-    },
-    {
-        "titre": "All You Need Is Kill",
-        "lien": "https://anime-sama.fr/catalogue/all-you-need-is-kill",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/all-you-need-is-kill.jpg"
     },
     {
         "titre": "Am I Actually the Strongest?",
@@ -405,16 +310,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amnesia.jpg"
     },
     {
-        "titre": "Amour Sucré",
-        "lien": "https://anime-sama.fr/catalogue/amour-sucre",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amour-sucre.jpg"
-    },
-    {
-        "titre": "Amphibia",
-        "lien": "https://anime-sama.fr/catalogue/amphibia",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amphibia.jpg"
-    },
-    {
         "titre": "An Archdemon's Dilemma: How to Love Your Elf Bride",
         "lien": "https://anime-sama.fr/catalogue/an-archdemons-dilemma-how-to-love-your-elf-bride",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/an-archdemons-dilemma-how-to-love-your-elf-bride.jpg"
@@ -450,11 +345,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/another.jpg"
     },
     {
-        "titre": "Anti Gods Dragon System",
-        "lien": "https://anime-sama.fr/catalogue/anti-gods-dragon-system",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/anti-gods-dragon-system.jpg"
-    },
-    {
         "titre": "Ao Ashi",
         "lien": "https://anime-sama.fr/catalogue/ao-ashi",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ao-ashi.jpg"
@@ -473,16 +363,6 @@
         "titre": "Aoi Hana",
         "lien": "https://anime-sama.fr/catalogue/aoi-hana",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/aoi-hana.jpg"
-    },
-    {
-        "titre": "Apocalyptic Thief",
-        "lien": "https://anime-sama.fr/catalogue/apocalyptic-thief",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg"
-    },
-    {
-        "titre": "Apotheosis",
-        "lien": "https://anime-sama.fr/catalogue/apotheosis",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/apotheosis.jpg"
     },
     {
         "titre": "Appare-Ranman!",
@@ -525,29 +405,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arcane.jpg"
     },
     {
-        "titre": "Arcane Sniper",
-        "lien": "https://anime-sama.fr/catalogue/arcane-sniper",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arcane-sniper.jpg"
-    },
-    {
-        "titre": "Archmage Streamer",
-        "lien": "https://anime-sama.fr/catalogue/archmage-streamer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/archmage-streamer.jpg"
-    },
-    {
-        "titre": "Archmage Transcending Through Regression",
-        "lien": "https://anime-sama.fr/catalogue/archmage-transcending-through-regression",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/archmage-transcending-through-regression.jpg"
-    },
-    {
         "titre": "Are You Lost ?",
         "lien": "https://anime-sama.fr/catalogue/are-you-lost",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/are-you-lost.jpg"
-    },
-    {
-        "titre": "Area D",
-        "lien": "https://anime-sama.fr/catalogue/area-d",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/area-d.jpg"
     },
     {
         "titre": "Arifureta",
@@ -575,11 +435,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/as-miss-beelzebub-likes-it.jpg"
     },
     {
-        "titre": "Asadora!",
-        "lien": "https://anime-sama.fr/catalogue/asadora",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/asadora.jpg"
-    },
-    {
         "titre": "Asagao to Kase-san",
         "lien": "https://anime-sama.fr/catalogue/asagao-to-kase-san",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/asagao-to-kase-san.jpg"
@@ -588,11 +443,6 @@
         "titre": "Ascendance of a Bookworm",
         "lien": "https://anime-sama.fr/catalogue/ascendance-of-a-bookworm",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ascendance-of-a-bookworm.jpg"
-    },
-    {
-        "titre": "Ascension",
-        "lien": "https://anime-sama.fr/catalogue/ascension",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ascension0.jpg"
     },
     {
         "titre": "Ashita no Joe",
@@ -623,11 +473,6 @@
         "titre": "Astro Note",
         "lien": "https://anime-sama.fr/catalogue/astro-note",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/astro-note.jpg"
-    },
-    {
-        "titre": "Astro Royale",
-        "lien": "https://anime-sama.fr/catalogue/astro-royale",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/astro-royale.jpg"
     },
     {
         "titre": "Asura",
@@ -670,11 +515,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ayakashi-triangle.jpg"
     },
     {
-        "titre": "Ayashimon",
-        "lien": "https://anime-sama.fr/catalogue/ayashimon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ayashimon.jpg"
-    },
-    {
         "titre": "Azumanga Daioh",
         "lien": "https://anime-sama.fr/catalogue/azumanga-daioh",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/azumanga-daioh.jpg"
@@ -708,11 +548,6 @@
         "titre": "Back Street Girls",
         "lien": "https://anime-sama.fr/catalogue/back-street-girls/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/back-street-girls.jpg"
-    },
-    {
-        "titre": "Baek XX",
-        "lien": "https://anime-sama.fr/catalogue/baek-xx",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/baek-xx.jpg"
     },
     {
         "titre": "Baka to Test to Shoukanjuu",
@@ -770,24 +605,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bastard-ankoku-no-hakai-shin.jpg"
     },
     {
-        "titre": "Batman",
-        "lien": "https://anime-sama.fr/catalogue/batman",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/batman.jpg"
-    },
-    {
         "titre": "Battle Game in 5 Seconds",
         "lien": "https://anime-sama.fr/catalogue/battle-game-in-5-seconds",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/battle-game-in-5-seconds.jpg"
-    },
-    {
-        "titre": "Bâtard",
-        "lien": "https://anime-sama.fr/catalogue/batard",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/batard.jpg"
-    },
-    {
-        "titre": "Be Blues!",
-        "lien": "https://anime-sama.fr/catalogue/be-blues",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/be-blues.jpg"
     },
     {
         "titre": "Beast Tamer",
@@ -825,11 +645,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/belle.jpg"
     },
     {
-        "titre": "Ben 10",
-        "lien": "https://anime-sama.fr/catalogue/ben-10",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ben-10.jpg"
-    },
-    {
         "titre": "Berserk",
         "lien": "https://anime-sama.fr/catalogue/berserk",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/berserk0.jpg"
@@ -838,11 +653,6 @@
         "titre": "Berserk of Gluttony",
         "lien": "https://anime-sama.fr/catalogue/berserk-of-gluttony",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/berserk-of-gluttony.jpg"
-    },
-    {
-        "titre": "Bestiarius",
-        "lien": "https://anime-sama.fr/catalogue/bestiarius",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bestiarius.jpg"
     },
     {
         "titre": "Beyond the Boundary",
@@ -888,11 +698,6 @@
         "titre": "Black Summoner",
         "lien": "https://anime-sama.fr/catalogue/black-summoner",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/black-summoner.jpg"
-    },
-    {
-        "titre": "Black Torch",
-        "lien": "https://anime-sama.fr/catalogue/black-torch",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/black-torch.jpg"
     },
     {
         "titre": "Blade of the Immortal",
@@ -950,11 +755,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blue-exorcist.jpg"
     },
     {
-        "titre": "Blue Flag",
-        "lien": "https://anime-sama.fr/catalogue/blue-flag",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blue-flag.jpg"
-    },
-    {
         "titre": "Blue Giant",
         "lien": "https://anime-sama.fr/catalogue/blue-giant",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blue-giant.jpg"
@@ -990,11 +790,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bofuri.jpg"
     },
     {
-        "titre": "BoJack Horseman",
-        "lien": "https://anime-sama.fr/catalogue/bojack-horseman",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bojack-horseman.jpg"
-    },
-    {
         "titre": "Boku no Kokoro no Yabai Yatsu",
         "lien": "https://anime-sama.fr/catalogue/boku-no-kokoro-no-yabai-yatsu",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/boku-no-kokoro-no-yabai-yatsu.jpg"
@@ -1015,24 +810,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bokura-wa-minna-kawaisou.jpg"
     },
     {
-        "titre": "Bones",
-        "lien": "https://anime-sama.fr/catalogue/bones",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bones.jpg"
-    },
-    {
-        "titre": "Bonne nuit Punpun",
-        "lien": "https://anime-sama.fr/catalogue/bonne-nuit-punpun",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bonne-nuit-punpun.jpg"
-    },
-    {
         "titre": "Boruto",
         "lien": "https://anime-sama.fr/catalogue/boruto/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/boruto.jpg"
-    },
-    {
-        "titre": "Boss in School",
-        "lien": "https://anime-sama.fr/catalogue/boss-in-school",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/boss-in-school.jpg"
     },
     {
         "titre": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
@@ -1045,24 +825,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/boukyaku-battery.jpg"
     },
     {
-        "titre": "Bouncer",
-        "lien": "https://anime-sama.fr/catalogue/bouncer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bouncer.jpg"
-    },
-    {
         "titre": "Bouryaku no Zvezda",
         "lien": "https://anime-sama.fr/catalogue/bouryaku-no-zvezda",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bouryaku-no-zvezda.jpg"
-    },
-    {
-        "titre": "Bowblade Spirit",
-        "lien": "https://anime-sama.fr/catalogue/bowblade-spirit",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bowblade-spirit.jpg"
-    },
-    {
-        "titre": "Boy's Abyss",
-        "lien": "https://anime-sama.fr/catalogue/boys-abyss",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/boys-abyss.jpg"
     },
     {
         "titre": "Brand New Animal",
@@ -1195,11 +960,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cats-eye.jpg"
     },
     {
-        "titre": "catastrophic necromancer",
-        "lien": "https://anime-sama.fr/catalogue/catastrophic-necromancer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/catastrophic-necromancer.jpg"
-    },
-    {
         "titre": "Cautious Hero",
         "lien": "https://anime-sama.fr/catalogue/cautious-hero/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cautious-hero.jpg"
@@ -1230,19 +990,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cheat-skill-level-up.jpg"
     },
     {
-        "titre": "Cheeky Love",
-        "lien": "https://anime-sama.fr/catalogue/cheeky-love",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cheeky-love.jpg"
-    },
-    {
         "titre": "Cherry Magic",
         "lien": "https://anime-sama.fr/catalogue/cherry-magic",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cherry-magic.jpg"
-    },
-    {
-        "titre": "Chi no Yume",
-        "lien": "https://anime-sama.fr/catalogue/chi-no-yume",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chi-no-yume.jpg"
     },
     {
         "titre": "Chibi Revengers",
@@ -1253,16 +1003,6 @@
         "titre": "Chihayafuru",
         "lien": "https://anime-sama.fr/catalogue/chihayafuru",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chihayafuru.jpg"
-    },
-    {
-        "titre": "Child of the Sheath",
-        "lien": "https://anime-sama.fr/catalogue/child-of-the-sheath",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/child-of-the-sheath.jpg"
-    },
-    {
-        "titre": "Childhood Friend of the Zenith",
-        "lien": "https://anime-sama.fr/catalogue/childhood-friend-of-the-zenith",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/childhood-friend-of-the-zenith.jpg"
     },
     {
         "titre": "Chillin' in Another World with Level 2 Super Cheat Powers",
@@ -1285,29 +1025,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chocolat-et-vanilla.jpg"
     },
     {
-        "titre": "Choujin X",
-        "lien": "https://anime-sama.fr/catalogue/choujin-x",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/choujin-x.jpg"
-    },
-    {
-        "titre": "Chronicles of Heavenly Demon",
-        "lien": "https://anime-sama.fr/catalogue/chronicles-of-heavenly-demon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chronicles-of-heavenly-demon.jpg"
-    },
-    {
-        "titre": "Chronicles of the Demon Faction",
-        "lien": "https://anime-sama.fr/catalogue/chronicles-of-the-demon-faction",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chronicles-of-the-demon-faction.jpg"
-    },
-    {
         "titre": "Citrus",
         "lien": "https://anime-sama.fr/catalogue/citrus",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/citrus.jpg"
-    },
-    {
-        "titre": "City Hall",
-        "lien": "https://anime-sama.fr/catalogue/city-hall",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/city-hall.jpg"
     },
     {
         "titre": "City Hunter",
@@ -1350,16 +1070,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/clockwork-planet.jpg"
     },
     {
-        "titre": "Clover",
-        "lien": "https://anime-sama.fr/catalogue/clover",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/clover.jpg"
-    },
-    {
-        "titre": "Code Adam",
-        "lien": "https://anime-sama.fr/catalogue/code-adam/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/code-adam.jpg"
-    },
-    {
         "titre": "Code Breaker",
         "lien": "https://anime-sama.fr/catalogue/code-breaker",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/code-breaker.jpg"
@@ -1385,11 +1095,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/coppelion.jpg"
     },
     {
-        "titre": "Coraline",
-        "lien": "https://anime-sama.fr/catalogue/coraline",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/coraline.jpg"
-    },
-    {
         "titre": "Corpse Party",
         "lien": "https://anime-sama.fr/catalogue/corpse-party",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/corpse-party.jpg"
@@ -1408,11 +1113,6 @@
         "titre": "Criminelles Fiançailles",
         "lien": "https://anime-sama.fr/catalogue/criminelles-fiancailles",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/criminelles-fiancailles0.jpg"
-    },
-    {
-        "titre": "Crimson Wolf",
-        "lien": "https://anime-sama.fr/catalogue/crimson-wolf",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/crimson-wolf.jpg"
     },
     {
         "titre": "Cross Ange",
@@ -1455,19 +1155,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dahliya-artisane-magicienne.jpg"
     },
     {
-        "titre": "Dai Dark",
-        "lien": "https://anime-sama.fr/catalogue/dai-dark",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dai-dark.jpg"
-    },
-    {
         "titre": "DAKAICHI My number 1",
         "lien": "https://anime-sama.fr/catalogue/dakaichi-my-number-1",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dakaichi-my-number-1.jpg"
-    },
-    {
-        "titre": "Damn Reincarnation",
-        "lien": "https://anime-sama.fr/catalogue/damn-reincarnation",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/damn-reincarnation.jpg"
     },
     {
         "titre": "Dance Dance Danseur",
@@ -1500,11 +1190,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dark-gathering.jpg"
     },
     {
-        "titre": "Dark Mortal",
-        "lien": "https://anime-sama.fr/catalogue/dark-mortal",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dark-mortal.jpg"
-    },
-    {
         "titre": "Darker than Black",
         "lien": "https://anime-sama.fr/catalogue/darker-than-black",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/darker-than-black.jpg"
@@ -1528,11 +1213,6 @@
         "titre": "Days",
         "lien": "https://anime-sama.fr/catalogue/days",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/days.jpg"
-    },
-    {
-        "titre": "Dead Cells",
-        "lien": "https://anime-sama.fr/catalogue/dead-cells",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dead-cells.jpg"
     },
     {
         "titre": "Dead Dead Demon's DeDeDeDeDestruction",
@@ -1585,11 +1265,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/delicos-nursery.jpg"
     },
     {
-        "titre": "Demon Evolution",
-        "lien": "https://anime-sama.fr/catalogue/demon-evolution",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-evolution.jpg"
-    },
-    {
         "titre": "Demon Lord & One Room Hero",
         "lien": "https://anime-sama.fr/catalogue/demon-lord-and-one-room-hero",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-lord-and-one-room-hero.jpg"
@@ -1608,11 +1283,6 @@
         "titre": "Demon Slayer",
         "lien": "https://anime-sama.fr/catalogue/demon-slayer/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-slayer.jpg"
-    },
-    {
-        "titre": "Denjin N",
-        "lien": "https://anime-sama.fr/catalogue/denjin-n",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/denjin-n.jpg"
     },
     {
         "titre": "Denkigai no Honya-san",
@@ -1645,11 +1315,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/diabolik-lovers.jpg"
     },
     {
-        "titre": "Dickinson",
-        "lien": "https://anime-sama.fr/catalogue/dickinson",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dickinson.jpg"
-    },
-    {
         "titre": "Dies Irae",
         "lien": "https://anime-sama.fr/catalogue/dies-irae",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dies-irae.jpg"
@@ -1665,19 +1330,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/do-it-yourself.jpg"
     },
     {
-        "titre": "Dolly Kill Kill",
-        "lien": "https://anime-sama.fr/catalogue/dolly-kill-kill",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dolly-kill-kill.jpg"
-    },
-    {
         "titre": "Domestic Girlfriend",
         "lien": "https://anime-sama.fr/catalogue/domestic-girlfriend/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/domestic-girlfriend.jpg"
-    },
-    {
-        "titre": "Doom Breaker",
-        "lien": "https://anime-sama.fr/catalogue/doom-breaker/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/doom-breaker.jpg"
     },
     {
         "titre": "Dorohedoro",
@@ -1730,11 +1385,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragon-ball-z.jpg"
     },
     {
-        "titre": "Dragon Devouring Mage",
-        "lien": "https://anime-sama.fr/catalogue/dragon-devouring-mage",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragon-devouring-mage.jpg"
-    },
-    {
         "titre": "Dragon Ie wo Kau",
         "lien": "https://anime-sama.fr/catalogue/dragon-ie-wo-kau",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragon-ie-wo-kau.jpg"
@@ -1750,16 +1400,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragon-raja.jpg"
     },
     {
-        "titre": "Dragons",
-        "lien": "https://anime-sama.fr/catalogue/dragons",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragons.jpg"
-    },
-    {
-        "titre": "dreaming freedom",
-        "lien": "https://anime-sama.fr/catalogue/dreaming-freedom",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dreaming-freedom.jpg"
-    },
-    {
         "titre": "Drifters",
         "lien": "https://anime-sama.fr/catalogue/drifters",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drifters.jpg"
@@ -1770,29 +1410,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drug-store-in-another-world.jpg"
     },
     {
-        "titre": "Drug-Eating Genius Mage",
-        "lien": "https://anime-sama.fr/catalogue/drug-eating-genius-mage",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drug-eating-genius-mage.jpg"
-    },
-    {
-        "titre": "Duke Pendragon",
-        "lien": "https://anime-sama.fr/catalogue/duke-pendragon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/duke-pendragon.jpg"
-    },
-    {
         "titre": "Dumbbell Nan-Kilo Moteru?",
         "lien": "https://anime-sama.fr/catalogue/dumbbell-nan-kilo-moteru/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dumbbell-nan-kilo-moteru.jpg"
-    },
-    {
-        "titre": "Dungeon Defense",
-        "lien": "https://anime-sama.fr/catalogue/dungeon-defense",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-defense.jpg"
-    },
-    {
-        "titre": "Dungeon House",
-        "lien": "https://anime-sama.fr/catalogue/dungeon-house",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-house.jpg"
     },
     {
         "titre": "Dungeon Meshi",
@@ -1800,24 +1420,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-meshi.jpg"
     },
     {
-        "titre": "Dungeon Odyssey",
-        "lien": "https://anime-sama.fr/catalogue/dungeon-odyssey",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-odyssey.jpg"
-    },
-    {
         "titre": "Dungeon People",
         "lien": "https://anime-sama.fr/catalogue/dungeon-people",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-people.jpg"
-    },
-    {
-        "titre": "Dungeon Reset",
-        "lien": "https://anime-sama.fr/catalogue/dungeon-reset",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-reset.jpg"
-    },
-    {
-        "titre": "Dungeons and Artifacts",
-        "lien": "https://anime-sama.fr/catalogue/dungeons-artifacts",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeons-artifcats.jpg"
     },
     {
         "titre": "Durarara!!",
@@ -1830,11 +1435,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dusk-maiden-of-amnesia.jpg"
     },
     {
-        "titre": "Ecrire pour Exister",
-        "lien": "https://anime-sama.fr/catalogue/ecrire-pour-exister",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ecrire-pour-exister.jpg"
-    },
-    {
         "titre": "Eden of The East",
         "lien": "https://anime-sama.fr/catalogue/eden-of-the-east",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eden-of-the-east.jpg"
@@ -1845,29 +1445,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/edens-zero.jpg"
     },
     {
-        "titre": "Eisen no Lovelock",
-        "lien": "https://anime-sama.fr/catalogue/eisen-no-lovelock",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eisen-no-lovelock.jpg"
-    },
-    {
-        "titre": "Eleceed",
-        "lien": "https://anime-sama.fr/catalogue/eleceed",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eleceed.jpg"
-    },
-    {
         "titre": "Elfen Lied",
         "lien": "https://anime-sama.fr/catalogue/elfen-lied/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/elfen-lied.jpg"
-    },
-    {
-        "titre": "Embers",
-        "lien": "https://anime-sama.fr/catalogue/embers",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/embers.jpg"
-    },
-    {
-        "titre": "Encanto",
-        "lien": "https://anime-sama.fr/catalogue/encanto",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/encanto.jpg"
     },
     {
         "titre": "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
@@ -1895,44 +1475,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eromanga-sensei.jpg"
     },
     {
-        "titre": "Escape Room",
-        "lien": "https://anime-sama.fr/catalogue/escape-room",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/escape-room.jpg"
-    },
-    {
-        "titre": "Estio",
-        "lien": "https://anime-sama.fr/catalogue/estio",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/estio.jpg"
-    },
-    {
-        "titre": "Eternally Regressing knight",
-        "lien": "https://anime-sama.fr/catalogue/eternally-regressing-knight",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eternally-regressing-knight.jpg"
-    },
-    {
         "titre": "Evangelion",
         "lien": "https://anime-sama.fr/catalogue/evangelion",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/evangelion.jpg"
     },
     {
-        "titre": "Evil Heroes",
-        "lien": "https://anime-sama.fr/catalogue/evil-heroes",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/evil-heroes.jpg"
-    },
-    {
         "titre": "Excel Saga",
         "lien": "https://anime-sama.fr/catalogue/excel-saga",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/excel-saga.jpg"
-    },
-    {
-        "titre": "Existence",
-        "lien": "https://anime-sama.fr/catalogue/existence",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/existence.jpg"
-    },
-    {
-        "titre": "Extracurricular",
-        "lien": "https://anime-sama.fr/catalogue/extracurricular",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/extracurricular.jpg"
     },
     {
         "titre": "Extraordinary You",
@@ -1960,21 +1510,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fairy-tail.jpg"
     },
     {
-        "titre": "Fallen Angels",
-        "lien": "https://anime-sama.fr/catalogue/fallen-angels",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fallen-angels.jpg"
-    },
-    {
-        "titre": "Falling Into Your Smile",
-        "lien": "https://anime-sama.fr/catalogue/falling-into-your-smile",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/falling-into-your-smile.jpg"
-    },
-    {
-        "titre": "Family Business",
-        "lien": "https://anime-sama.fr/catalogue/family-business",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/family-business.jpg"
-    },
-    {
         "titre": "Fantasy Bishoujo Juniku Oji-san to",
         "lien": "https://anime-sama.fr/catalogue/fantasy-bishoujo-juniku-oji-san-to",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fantasy-bishoujo-juniku-oji-san-to.jpg"
@@ -2000,24 +1535,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fena-pirate-princess.jpg"
     },
     {
-        "titre": "FFF-Class Trashero",
-        "lien": "https://anime-sama.fr/catalogue/fff-class-trashero",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fff-class-trashero.jpg"
-    },
-    {
-        "titre": "Final Space",
-        "lien": "https://anime-sama.fr/catalogue/final-space",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/final-space.jpg"
-    },
-    {
         "titre": "Fire Force",
         "lien": "https://anime-sama.fr/catalogue/fire-force/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fire-force.jpg"
-    },
-    {
-        "titre": "Fire Punch",
-        "lien": "https://anime-sama.fr/catalogue/fire-punch",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fire-punch.jpg"
     },
     {
         "titre": "Firefighter Daigo: Rescuer in Orange",
@@ -2053,21 +1573,6 @@
         "titre": "Food Wars",
         "lien": "https://anime-sama.fr/catalogue/food-wars/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/food-wars.jpg"
-    },
-    {
-        "titre": "Fool Night",
-        "lien": "https://anime-sama.fr/catalogue/fool-night",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fool-night.jpg"
-    },
-    {
-        "titre": "Foot 2 Rue",
-        "lien": "https://anime-sama.fr/catalogue/foot-2-rue",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/foot-2-rue.jpg"
-    },
-    {
-        "titre": "Forced to Become the Villainous Son-in-law",
-        "lien": "https://anime-sama.fr/catalogue/forced-to-become-the-villainous-son-in-law",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/forced-to-become-the-villainous-son-in-law.jpg"
     },
     {
         "titre": "Four Knights of the Apocalypse",
@@ -2140,11 +1645,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gabriel-dropout.jpg"
     },
     {
-        "titre": "Gachiakuta",
-        "lien": "https://anime-sama.fr/catalogue/gachiakuta",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gachiakuta.jpg"
-    },
-    {
         "titre": "Gakuen Babysitters",
         "lien": "https://anime-sama.fr/catalogue/gakuen-babysitters/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gakuen-babysitters.jpg"
@@ -2158,16 +1658,6 @@
         "titre": "Galaxy Express 999",
         "lien": "https://anime-sama.fr/catalogue/galaxy-express-999",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/galaxy-express-999.jpg"
-    },
-    {
-        "titre": "Gamaran",
-        "lien": "https://anime-sama.fr/catalogue/gamaran",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gamaran.jpg"
-    },
-    {
-        "titre": "Gamaran - Le Tournoi ultime",
-        "lien": "https://anime-sama.fr/catalogue/gamaran-le-tournoi-ultime",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gamaran-le-tournoi-ultime.jpg"
     },
     {
         "titre": "Gambling School",
@@ -2203,11 +1693,6 @@
         "titre": "Gekkan Shoujo Nozaki-kun",
         "lien": "https://anime-sama.fr/catalogue/gekkan-shoujo-nozaki-kun",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gekkan-shoujo-nozaki-kun.jpg"
-    },
-    {
-        "titre": "Genesis",
-        "lien": "https://anime-sama.fr/catalogue/genesis",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/genesis.jpg"
     },
     {
         "titre": "Genjitsu no Yohane",
@@ -2285,19 +1770,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/god-eater.jpg"
     },
     {
-        "titre": "God Of Blackfield",
-        "lien": "https://anime-sama.fr/catalogue/god-of-blackfield",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/god-of-blackfield.jpg"
-    },
-    {
         "titre": "Gods' Games We Play",
         "lien": "https://anime-sama.fr/catalogue/gods-games-we-play",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gods-games-we-play.jpg"
-    },
-    {
-        "titre": "Gokurakugai",
-        "lien": "https://anime-sama.fr/catalogue/gokurakugai",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gokurakugai.jpg"
     },
     {
         "titre": "Golden Boy",
@@ -2320,11 +1795,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/goldorak.jpg"
     },
     {
-        "titre": "Goodbye Eri",
-        "lien": "https://anime-sama.fr/catalogue/goodbye-eri",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/goodbye-eri.jpg"
-    },
-    {
         "titre": "Goodbye, Don Glees!",
         "lien": "https://anime-sama.fr/catalogue/goodbye-don-glees",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/goodbye-don-glees.jpg"
@@ -2338,11 +1808,6 @@
         "titre": "Gosick",
         "lien": "https://anime-sama.fr/catalogue/gosick",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gosick.jpg"
-    },
-    {
-        "titre": "Gosu",
-        "lien": "https://anime-sama.fr/catalogue/gosu",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gosu.jpg"
     },
     {
         "titre": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -2398,11 +1863,6 @@
         "titre": "Gunjou no Fanfare",
         "lien": "https://anime-sama.fr/catalogue/gunjou-no-fanfare",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gunjou-no-fanfare.jpg"
-    },
-    {
-        "titre": "Gunnm",
-        "lien": "https://anime-sama.fr/catalogue/gunnm",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gunnm.jpg"
     },
     {
         "titre": "Gurren Lagann",
@@ -2475,11 +1935,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/happy-sugar-life.jpg"
     },
     {
-        "titre": "Hardcore Leveling Warrior",
-        "lien": "https://anime-sama.fr/catalogue/hardcore-leveling-warrior",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hardcore-leveling-warrior.jpg"
-    },
-    {
         "titre": "Harukana Receive",
         "lien": "https://anime-sama.fr/catalogue/harukana-receive",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/harukana-receive.jpg"
@@ -2495,19 +1950,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hataraku-maou-sama.jpg"
     },
     {
-        "titre": "Hazbin Hotel",
-        "lien": "https://anime-sama.fr/catalogue/hazbin-hotel",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hazbin-hotel.jpg"
-    },
-    {
         "titre": "Healer Girl",
         "lien": "https://anime-sama.fr/catalogue/healer-girl",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/healer-girl.jpg"
-    },
-    {
-        "titre": "Hearstopper",
-        "lien": "https://anime-sama.fr/catalogue/hearstopper",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hearstopper.jpg"
     },
     {
         "titre": "Heat the Pig Liver",
@@ -2518,16 +1963,6 @@
         "titre": "Heaven Official's Blessing",
         "lien": "https://anime-sama.fr/catalogue/heaven-officials-blessing",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/heaven-officials-blessing.jpg"
-    },
-    {
-        "titre": "Heavenly Demon Instructor",
-        "lien": "https://anime-sama.fr/catalogue/heavenly-demon-instructor",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/heavenly-demon-instructor.jpg"
-    },
-    {
-        "titre": "Heavenly Inquisition Sword",
-        "lien": "https://anime-sama.fr/catalogue/heavenly-inquisition-sword",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/heavenly-inquisition-sword.jpg"
     },
     {
         "titre": "Heike Monogatari",
@@ -2545,11 +1980,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hells-paradise0.jpg"
     },
     {
-        "titre": "Hellbound",
-        "lien": "https://anime-sama.fr/catalogue/hellbound",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hellbound.jpg"
-    },
-    {
         "titre": "Hello World",
         "lien": "https://anime-sama.fr/catalogue/hello-world",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hello-world.jpg"
@@ -2560,34 +1990,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hellsing-ultimate.jpg"
     },
     {
-        "titre": "Helmut: The Forsaken Child",
-        "lien": "https://anime-sama.fr/catalogue/helmut-the-forsaken-child",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/helmut-the-forsaken-child.jpg"
-    },
-    {
         "titre": "Henjin no Salad Bowl",
         "lien": "https://anime-sama.fr/catalogue/henjin-no-salad-bowl",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/henjin-no-salad-bowl.jpg"
     },
     {
-        "titre": "Her Summon",
-        "lien": "https://anime-sama.fr/catalogue/her-summon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/her-summon.jpg"
-    },
-    {
-        "titre": "Hero killer",
-        "lien": "https://anime-sama.fr/catalogue/hero-killer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hero-killer.jpg"
-    },
-    {
         "titre": "Hero Skill, Achats en ligne",
         "lien": "https://anime-sama.fr/catalogue/hero-skill-achats-en-ligne",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hero-skill-achats-en-ligne.jpg"
-    },
-    {
-        "titre": "hero ticket",
-        "lien": "https://anime-sama.fr/catalogue/hero-ticket",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hero-ticket.jpg"
     },
     {
         "titre": "Heroine Taru Mono!",
@@ -2598,11 +2008,6 @@
         "titre": "Hetalia World Stars",
         "lien": "https://anime-sama.fr/catalogue/hetalia-world-stars/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hetalia-world-stars.jpg"
-    },
-    {
-        "titre": "Héros fragile",
-        "lien": "https://anime-sama.fr/catalogue/heros-fragile",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/heros-fragile.jpg"
     },
     {
         "titre": "Héros Modestes",
@@ -2705,24 +2110,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hitorijime-my-hero.jpg"
     },
     {
-        "titre": "Hoarding in Hell",
-        "lien": "https://anime-sama.fr/catalogue/hoarding-in-hell",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hoarding-in-hell.jpg"
-    },
-    {
         "titre": "Hokkaido Gals Are Super Adorable!",
         "lien": "https://anime-sama.fr/catalogue/hokkaido-gals-are-super-adorable",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hokkaido-gals-are-super-adorable.jpg"
-    },
-    {
-        "titre": "Hometown Cha-Cha-Cha",
-        "lien": "https://anime-sama.fr/catalogue/hometown-cha-cha-cha",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hometown-cha-cha-cha.jpg"
-    },
-    {
-        "titre": "Homunculus",
-        "lien": "https://anime-sama.fr/catalogue/homunculus",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/homunculus.jpg"
     },
     {
         "titre": "Honey Lemon Soda",
@@ -2738,11 +2128,6 @@
         "titre": "Horimiya",
         "lien": "https://anime-sama.fr/catalogue/horimiya/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/horimiya.jpg"
-    },
-    {
-        "titre": "Horizon",
-        "lien": "https://anime-sama.fr/catalogue/horizon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/horizon.jpg"
     },
     {
         "titre": "Hoshi no Samidare",
@@ -2785,24 +2170,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hyouka.jpg"
     },
     {
-        "titre": "I Became The King by Scavenging",
-        "lien": "https://anime-sama.fr/catalogue/i-became-the-king-by-scavenging",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-became-the-king-by-scavenging.jpg"
-    },
-    {
         "titre": "I Can't Understand What My Husband Is Saying",
         "lien": "https://anime-sama.fr/catalogue/i-cant-understand-what-my-husband-is-saying",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-cant-understand-what-my-husband-is-saying.jpg"
-    },
-    {
-        "titre": "I Contracted Myself",
-        "lien": "https://anime-sama.fr/catalogue/i-contracted-myself",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-contracted-myself.jpg"
-    },
-    {
-        "titre": "I Grow Stronger By Eating!",
-        "lien": "https://anime-sama.fr/catalogue/i-grow-stronger-by-eating",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-grow-stronger-by-eating.jpg"
     },
     {
         "titre": "I Have a Crush at Work",
@@ -2810,34 +2180,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-have-a-crush-at-work.jpg"
     },
     {
-        "titre": "I Killed an Academy Player",
-        "lien": "https://anime-sama.fr/catalogue/i-killed-an-academy-player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-killed-an-academy-player.jpg"
-    },
-    {
-        "titre": "I Level Up By Absorbing Everything",
-        "lien": "https://anime-sama.fr/catalogue/i-level-up-by-absorbing-everything",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-level-up-by-absorbing-everything.jpg"
-    },
-    {
-        "titre": "I love you, so I kill you",
-        "lien": "https://anime-sama.fr/catalogue/i-love-you-so-i-kill-you",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-love-you-so-i-kill-you.jpg"
-    },
-    {
         "titre": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
         "lien": "https://anime-sama.fr/catalogue/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time.jpg"
-    },
-    {
-        "titre": "I obtained a mythic item",
-        "lien": "https://anime-sama.fr/catalogue/i-obtained-a-mythic-item",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-obtained-a-mythic-item.jpg"
-    },
-    {
-        "titre": "I Returned as an FFF-Class Witch Doctor",
-        "lien": "https://anime-sama.fr/catalogue/i-returned-as-an-fff-class-witch-doctor",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-returned-as-an-fff-class-witch-doctor.jpg"
     },
     {
         "titre": "I Somehow Got Strong By Raising Skills Related to Farming",
@@ -2860,11 +2205,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-will-parry-all.jpg"
     },
     {
-        "titre": "I'll Be the Matriarch in This Life",
-        "lien": "https://anime-sama.fr/catalogue/ill-be-the-matriarch-in-this-life",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ill-be-the-matriarch-in-this-life.jpg"
-    },
-    {
         "titre": "I'll Become a Villainess That Will Go Down in History",
         "lien": "https://anime-sama.fr/catalogue/ill-become-a-villainess-that-will-go-down-in-history",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ill-become-a-villainess-that-will-go-down-in-history.jpg"
@@ -2880,24 +2220,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-living-with-an-otaku-neet-kunoichi.jpg"
     },
     {
-        "titre": "I'm Not That Kind of Talent",
-        "lien": "https://anime-sama.fr/catalogue/im-not-that-kind-of-talent",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-not-that-kind-of-talent.jpg"
-    },
-    {
-        "titre": "I'm Not The Overlord !",
-        "lien": "https://anime-sama.fr/catalogue/im-not-the-overlord",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-not-the-overlord.jpg"
-    },
-    {
         "titre": "I'm Standing on a Million Lives",
         "lien": "https://anime-sama.fr/catalogue/im-standing-on-a-million-lives",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-standing-on-a-million-lives.jpg"
-    },
-    {
-        "titre": "I'm The Max-Level Newbie",
-        "lien": "https://anime-sama.fr/catalogue/im-the-max-level-newbie",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-the-max-level-newbie.jpg"
     },
     {
         "titre": "I'm the Villainess, So I'm Taming the Final Boss",
@@ -2908,16 +2233,6 @@
         "titre": "I've Always Liked You",
         "lien": "https://anime-sama.fr/catalogue/ive-always-liked-you",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ive-always-liked-you.jpg"
-    },
-    {
-        "titre": "Ice Lord",
-        "lien": "https://anime-sama.fr/catalogue/ice-lord",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ice-lord.jpg"
-    },
-    {
-        "titre": "Ichi the Witch",
-        "lien": "https://anime-sama.fr/catalogue/ichi-the-witch",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ichi-the-witch.jpg"
     },
     {
         "titre": "ID:Invaded",
@@ -2950,11 +2265,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ikebukuro-west-gate-park.jpg"
     },
     {
-        "titre": "Ikigami",
-        "lien": "https://anime-sama.fr/catalogue/ikigami",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ikigami.jpg"
-    },
-    {
         "titre": "Imagine un cambrousard",
         "lien": "https://anime-sama.fr/catalogue/imagine-un-cambrousard",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/imagine-un-cambrousard.jpg"
@@ -2970,16 +2280,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/in-the-heart-of-kunoichi-tsubaki.jpg"
     },
     {
-        "titre": "In the Night Consumed by Blades, I Walk",
-        "lien": "https://anime-sama.fr/catalogue/in-the-night-consumed-by-blades-i-walk",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/in-the-night-consumed-by-blades-i-walk.jpg"
-    },
-    {
-        "titre": "In This Corner of the World",
-        "lien": "https://anime-sama.fr/catalogue/in-this-corner-of-the-world",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/in-this-corner-of-the-world.jpg"
-    },
-    {
         "titre": "In/Spectre",
         "lien": "https://anime-sama.fr/catalogue/in-spectre",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/in-spectre.jpg"
@@ -2993,11 +2293,6 @@
         "titre": "Infinite Dendrogram",
         "lien": "https://anime-sama.fr/catalogue/infinite-dendrogram",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/infinite-dendrogram.jpg"
-    },
-    {
-        "titre": "Infinite Mage",
-        "lien": "https://anime-sama.fr/catalogue/infinite-mage",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/infinite-mage.jpg"
     },
     {
         "titre": "Infinite Stratos",
@@ -3080,16 +2375,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/island.jpg"
     },
     {
-        "titre": "Isshou Senkin",
-        "lien": "https://anime-sama.fr/catalogue/isshou-senkin",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/isshou-senkin.jpg"
-    },
-    {
-        "titre": "Itaewon Class",
-        "lien": "https://anime-sama.fr/catalogue/itaewon-class",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/itaewon-class.jpg"
-    },
-    {
         "titre": "Iwa kakeru! Climbing Girls",
         "lien": "https://anime-sama.fr/catalogue/iwa-kakeru-climbing-girls",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/iwa-kakeru-climbing-girls.jpg"
@@ -3108,16 +2393,6 @@
         "titre": "J'ai Perdu Mon Corps",
         "lien": "https://anime-sama.fr/catalogue/jai-perdu-mon-corps",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jai-perdu-mon-corps.jpg"
-    },
-    {
-        "titre": "J'irai te voir dans ma prochaine vie",
-        "lien": "https://anime-sama.fr/catalogue/jirai-te-voir-dans-ma-prochaine-vie",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jirai-te-voir-dans-ma-prochaine-vie.jpg"
-    },
-    {
-        "titre": "Jagaaan",
-        "lien": "https://anime-sama.fr/catalogue/jagaaan",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jagaaan.jpg"
     },
     {
         "titre": "Jahy-sama wa Kujikenai!",
@@ -3143,11 +2418,6 @@
         "titre": "Je peux entendre l'océan",
         "lien": "https://anime-sama.fr/catalogue/je-peux-entendre-l-ocean",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/je-peux-entendre-l-ocean.jpg"
-    },
-    {
-        "titre": "Je suis un assassin (et je surpasse le héros)",
-        "lien": "https://anime-sama.fr/catalogue/je-suis-un-assassin-et-je-surpasse-le-heros",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/je-suis-un-assassin-et-je-surpasse-le-heros.jpg"
     },
     {
         "titre": "Jiisan Baasan Wakagaeru",
@@ -3205,11 +2475,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jun-la-voix-du-coeur.jpg"
     },
     {
-        "titre": "jungle juice",
-        "lien": "https://anime-sama.fr/catalogue/jungle-juice",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jungle-juice.jpg"
-    },
-    {
         "titre": "Junji Ito Collection",
         "lien": "https://anime-sama.fr/catalogue/junji-ito-collection",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/junji-ito-collection.jpg"
@@ -3225,19 +2490,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/just-because.jpg"
     },
     {
-        "titre": "Juujika no Rokunin",
-        "lien": "https://anime-sama.fr/catalogue/juujika-no-rokunin",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/juujika-no-rokunin.jpg"
-    },
-    {
         "titre": "Juuni Taisen",
         "lien": "https://anime-sama.fr/catalogue/juuni-taisen",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/juuni-taisen.jpg"
-    },
-    {
-        "titre": "Juvenile Law",
-        "lien": "https://anime-sama.fr/catalogue/juvenile-law",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/juvenile-law.jpg"
     },
     {
         "titre": "K Project",
@@ -3263,11 +2518,6 @@
         "titre": "Kageki Shoujo",
         "lien": "https://anime-sama.fr/catalogue/kageki-shoujo",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kageki-shoujo.jpg"
-    },
-    {
-        "titre": "Kagura Bachi",
-        "lien": "https://anime-sama.fr/catalogue/kagura-bachi",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kagura-bachi.jpg"
     },
     {
         "titre": "Kaguya-sama: Love is War",
@@ -3310,11 +2560,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kakushigoto.jpg"
     },
     {
-        "titre": "Kamen Byoutou",
-        "lien": "https://anime-sama.fr/catalogue/kamen-byoutou",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kamen-byoutou.jpg"
-    },
-    {
         "titre": "KamiErabi GOD.App",
         "lien": "https://anime-sama.fr/catalogue/kamierabi-god-app",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kamierabi-god-app.jpg"
@@ -3328,11 +2573,6 @@
         "titre": "Kamisama Hajimemashita",
         "lien": "https://anime-sama.fr/catalogue/kamisama-hajimemashita",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kamisama-hajimemashita.jpg"
-    },
-    {
-        "titre": "Kamisama no Inai Nichiyoubi",
-        "lien": "https://anime-sama.fr/catalogue/kamisama-no-inai-nichiyoubi",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kamisama-no-inai-nichiyoubi.jpg"
     },
     {
         "titre": "Kanata no Astra",
@@ -3360,16 +2600,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kanon.jpg"
     },
     {
-        "titre": "Kaoru Hana wa Rin to Saku",
-        "lien": "https://anime-sama.fr/catalogue/kaoru-hana-wa-rin-to-saku",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kaoru-hana-wa-rin-to-saku.jpg"
-    },
-    {
-        "titre": "Kara no Kioku",
-        "lien": "https://anime-sama.fr/catalogue/kara-no-kioku",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kara-no-kioku.jpg"
-    },
-    {
         "titre": "Karakai Jouzu no Takagi-san",
         "lien": "https://anime-sama.fr/catalogue/karakai-jouzu-no-takagi-san",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/karakai-jouzu-no-takagi-san.jpg"
@@ -3383,11 +2613,6 @@
         "titre": "Karneval",
         "lien": "https://anime-sama.fr/catalogue/karneval",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/karneval.jpg"
-    },
-    {
-        "titre": "Kasane, La voleuse de visage",
-        "lien": "https://anime-sama.fr/catalogue/kasane-la-voleuse-de-visage",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kasane-la-voleuse-de-visage.jpg"
     },
     {
         "titre": "Katekyo Hitman Reborn",
@@ -3445,11 +2670,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kengan-ashura.jpg"
     },
     {
-        "titre": "Kengan Omega",
-        "lien": "https://anime-sama.fr/catalogue/kengan-omega",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kengan-omega.jpg"
-    },
-    {
         "titre": "Kenja no Deshi wo Nanoru Kenja",
         "lien": "https://anime-sama.fr/catalogue/kenja-no-deshi-wo-nanoru-kenja",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kenja-no-deshi-wo-nanoru-kenja.jpg"
@@ -3473,26 +2693,6 @@
         "titre": "Kill la Kill",
         "lien": "https://anime-sama.fr/catalogue/kill-la-kill/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kill-la-kill.jpg"
-    },
-    {
-        "titre": "Kill The Hero",
-        "lien": "https://anime-sama.fr/catalogue/kill-the-hero",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kill-the-hero.jpg"
-    },
-    {
-        "titre": "Killer Peter",
-        "lien": "https://anime-sama.fr/catalogue/killer-peter",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/killer-peter.jpg"
-    },
-    {
-        "titre": "Killing Killer",
-        "lien": "https://anime-sama.fr/catalogue/killing-killer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/killing-killer.jpg"
-    },
-    {
-        "titre": "Killstagram",
-        "lien": "https://anime-sama.fr/catalogue/killstagram",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/killstagram.jpg"
     },
     {
         "titre": "Kimi ni Todoke",
@@ -3533,11 +2733,6 @@
         "titre": "Kino's Journey",
         "lien": "https://anime-sama.fr/catalogue/kinos-journey",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kinos-journey.jpg"
-    },
-    {
-        "titre": "Kiruru Kill Me",
-        "lien": "https://anime-sama.fr/catalogue/kiruru-kill-me",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kiruru-kill-me.jpg"
     },
     {
         "titre": "Kiss Him, Not Me !",
@@ -3635,11 +2830,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kotaro-en-solo.jpg"
     },
     {
-        "titre": "Kowloon Generic Romance",
-        "lien": "https://anime-sama.fr/catalogue/kowloon-generic-romance",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kowloon-generic-romance.jpg"
-    },
-    {
         "titre": "Kubikiri Cycle",
         "lien": "https://anime-sama.fr/catalogue/kubikiri-cycle",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kubikiri-cycle.jpg"
@@ -3650,11 +2840,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kubo-wont-let-me-be-invisible.jpg"
     },
     {
-        "titre": "Kuchi ga Saketemo Kimi ni wa",
-        "lien": "https://anime-sama.fr/catalogue/kuchi-ga-saketemo-kimi-ni-wa",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kuchi-ga-saketemo-kimi-ni-wa.jpg"
-    },
-    {
         "titre": "Kuma Kuma Kuma Bear",
         "lien": "https://anime-sama.fr/catalogue/kuma-kuma-kuma-bear",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kuma-kuma-kuma-bear.jpg"
@@ -3663,11 +2848,6 @@
         "titre": "Kumo Desu ga, Nani ka",
         "lien": "https://anime-sama.fr/catalogue/kumo-desu-ga-nani-ka",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kumo-desu-ga-nani-ka.jpg"
-    },
-    {
-        "titre": "Kung Fu Panda",
-        "lien": "https://anime-sama.fr/catalogue/kung-fu-panda",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kung-fu-panda.jpg"
     },
     {
         "titre": "Kuramerukagari",
@@ -3720,39 +2900,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kyuuketsuki-sugu-shinu.jpg"
     },
     {
-        "titre": "L'Atelier des Sorciers",
-        "lien": "https://anime-sama.fr/catalogue/l-atelier-des-sorciers",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/l-atelier-des-sorciers.jpg"
-    },
-    {
-        "titre": "L'Expert de la tour tutoriel",
-        "lien": "https://anime-sama.fr/catalogue/l-expert-de-la-tour-tutoriel",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/l-expert-de-la-tour-tutoriel.jpg"
-    },
-    {
-        "titre": "L'ère des surhommes",
-        "lien": "https://anime-sama.fr/catalogue/l-ere-des-surhommes",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/l-ere-des-surhommes.jpg"
-    },
-    {
-        "titre": "L'Impératrice Remariée",
-        "lien": "https://anime-sama.fr/catalogue/l-imperatrice-remariee",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/l-imperatrice-remariee.jpg"
-    },
-    {
         "titre": "L'Oeuf de l'Ange",
         "lien": "https://anime-sama.fr/catalogue/l-oeuf-de-l-ange",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/l-oeuf-de-l-ange.jpg"
-    },
-    {
-        "titre": "La Casa de Papel",
-        "lien": "https://anime-sama.fr/catalogue/la-casa-de-papel",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-casa-de-papel.jpg"
-    },
-    {
-        "titre": "La Chronique des Bridgerton",
-        "lien": "https://anime-sama.fr/catalogue/la-chronique-des-bridgerton",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-chronique-des-bridgerton.jpg"
     },
     {
         "titre": "La Colline aux coquelicots",
@@ -3760,34 +2910,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-colline-aux-coquelicots.jpg"
     },
     {
-        "titre": "La duchesse déchue",
-        "lien": "https://anime-sama.fr/catalogue/la-duchesse-dechue",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-duchesse-dechue.jpg"
-    },
-    {
         "titre": "La Fille des Enfers",
         "lien": "https://anime-sama.fr/catalogue/la-fille-des-enfers",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-fille-des-enfers.jpg"
     },
     {
-        "titre": "La Flamme",
-        "lien": "https://anime-sama.fr/catalogue/la-flamme",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-flamme.jpg"
-    },
-    {
-        "titre": "La Jacinthe Violette",
-        "lien": "https://anime-sama.fr/catalogue/la-jacinthe-violette",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-jacinthe-violette.jpg"
-    },
-    {
         "titre": "La Légende de Korra",
         "lien": "https://anime-sama.fr/catalogue/la-legende-de-korra",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-legende-de-korra.jpg"
-    },
-    {
-        "titre": "La Nuit des Démons",
-        "lien": "https://anime-sama.fr/catalogue/la-nuit-des-demons",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-nuit-des-demons.jpg"
     },
     {
         "titre": "La Princesse et la Bête",
@@ -3830,16 +2960,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lance-dur.jpg"
     },
     {
-        "titre": "Last Game",
-        "lien": "https://anime-sama.fr/catalogue/last-game",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/last-game.jpg"
-    },
-    {
-        "titre": "Latna Saga Survival of a Sword King",
-        "lien": "https://anime-sama.fr/catalogue/latna-saga-survival-of-a-sword-king",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/latna-saga-survival-of-a-sword-king.jpg"
-    },
-    {
         "titre": "Le Château ambulant",
         "lien": "https://anime-sama.fr/catalogue/le-chateau-ambulant",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-chateau-ambulant.jpg"
@@ -3865,16 +2985,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-conte-de-la-princesse-kaguya.jpg"
     },
     {
-        "titre": "Le Flambeau",
-        "lien": "https://anime-sama.fr/catalogue/le-flambeau",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-flambeau.jpg"
-    },
-    {
-        "titre": "Le Garçon au Fusil",
-        "lien": "https://anime-sama.fr/catalogue/le-garcon-au-fusil",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-garcon-au-fusil.jpg"
-    },
-    {
         "titre": "Le Garçon d'à coté",
         "lien": "https://anime-sama.fr/catalogue/le-garcon-da-cote",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-garcon-da-cote.jpg"
@@ -3890,44 +3000,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-garcon-et-le-heron.jpg"
     },
     {
-        "titre": "Le Haut du Panier",
-        "lien": "https://anime-sama.fr/catalogue/le-haut-du-panier",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-haut-du-panier.jpg"
-    },
-    {
         "titre": "Le healer rejeté est invincible au combat !",
         "lien": "https://anime-sama.fr/catalogue/le-healer-rejete-est-invincible-au-combat",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-healer-rejete-est-invincible-au-combat.jpg"
     },
     {
-        "titre": "Le Monde de Narnia",
-        "lien": "https://anime-sama.fr/catalogue/le-monde-de-narnia",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-monde-de-narnia.jpg"
-    },
-    {
-        "titre": "Le Monde incroyable de Gumball",
-        "lien": "https://anime-sama.fr/catalogue/le-monde-incroyable-de-gumball",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-monde-incroyable-de-gumball.jpg"
-    },
-    {
-        "titre": "Le Péché originel de Takopi",
-        "lien": "https://anime-sama.fr/catalogue/le-peche-originel-de-takopi",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-peche-originel-de-takopi.jpg"
-    },
-    {
-        "titre": "Le prix du reste de ma vie",
-        "lien": "https://anime-sama.fr/catalogue/le-prix-du-reste-de-ma-vie",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-prix-du-reste-de-ma-vie.jpg"
-    },
-    {
         "titre": "Le Puissant Dragon Vegan",
         "lien": "https://anime-sama.fr/catalogue/le-puissant-dragon-vegan",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-puissant-dragon-vegan.jpg"
-    },
-    {
-        "titre": "Le Roi Lion",
-        "lien": "https://anime-sama.fr/catalogue/le-roi-lion",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-roi-lion.jpg"
     },
     {
         "titre": "Le Royaume des chats",
@@ -3955,24 +3035,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/leadale-no-daichi-nite.jpg"
     },
     {
-        "titre": "Lecteur Omniscient",
-        "lien": "https://anime-sama.fr/catalogue/lecteur-omniscient",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lecteur-omniscient.jpg"
-    },
-    {
         "titre": "Left Hand Layup!",
         "lien": "https://anime-sama.fr/catalogue/left-hand-layup",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/left-hand-layup.jpg"
-    },
-    {
-        "titre": "Legend Of The Northern Blade",
-        "lien": "https://anime-sama.fr/catalogue/legend-of-the-northern-blade",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/legend-of-the-northern-blade.jpg"
-    },
-    {
-        "titre": "Legendary Youngest Son of the Marquis House",
-        "lien": "https://anime-sama.fr/catalogue/legendary-youngest-son-of-the-marquis-house",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/legendary-youngest-son-of-the-marquis-house.jpg"
     },
     {
         "titre": "Les Brigades Immunitaires",
@@ -4010,19 +3075,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-fleurs-du-mal.jpg"
     },
     {
-        "titre": "Les Liens du Sang",
-        "lien": "https://anime-sama.fr/catalogue/les-liens-du-sang",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-liens-du-sang.jpg"
-    },
-    {
         "titre": "Les Mémoires de Vanitas",
         "lien": "https://anime-sama.fr/catalogue/les-memoires-de-vanitas",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-memoires-de-vanitas.jpg"
-    },
-    {
-        "titre": "Les Minions",
-        "lien": "https://anime-sama.fr/catalogue/les-minions",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-minions.jpg"
     },
     {
         "titre": "Les Murs Vagabonds",
@@ -4030,29 +3085,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drifting-home.jpg"
     },
     {
-        "titre": "Les péchés capitaux de la famille Ichinose",
-        "lien": "https://anime-sama.fr/catalogue/les-peches-capitaux-de-la-famille-ichinose",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-peches-capitaux-de-la-famille-ichinose.jpg"
-    },
-    {
         "titre": "Les quatre frères Yuzuki",
         "lien": "https://anime-sama.fr/catalogue/les-quatre-freres-yuzuki",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-quatre-freres-yuzuki.jpg"
     },
     {
-        "titre": "Les Simpson",
-        "lien": "https://anime-sama.fr/catalogue/les-simpson",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-simpson.jpg"
-    },
-    {
         "titre": "Let This Grieving Soul Retire!",
         "lien": "https://anime-sama.fr/catalogue/let-this-grieving-soul-retire",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/let-this-grieving-soul-retire.jpg"
-    },
-    {
-        "titre": "Let's Play",
-        "lien": "https://anime-sama.fr/catalogue/lets-play",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lets-play.jpg"
     },
     {
         "titre": "Lets Make a Mug Too",
@@ -4075,49 +3115,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/level-e.jpg"
     },
     {
-        "titre": "Leveling Up, by Only Eating!",
-        "lien": "https://anime-sama.fr/catalogue/leveling-up-by-only-eating",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/leveling-up-by-only-eating.jpg"
-    },
-    {
-        "titre": "Leveling With The Gods",
-        "lien": "https://anime-sama.fr/catalogue/leveling-with-the-gods",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/leveling-with-the-gods.jpg"
-    },
-    {
-        "titre": "léviathan",
-        "lien": "https://anime-sama.fr/catalogue/leviathan",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/leviathan.jpg"
-    },
-    {
-        "titre": "Liar Game",
-        "lien": "https://anime-sama.fr/catalogue/liar-game",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/liar-game.jpg"
-    },
-    {
         "titre": "Liar Liar",
         "lien": "https://anime-sama.fr/catalogue/liar-liar",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/liar-liar.jpg"
     },
     {
-        "titre": "Lightning Degree",
-        "lien": "https://anime-sama.fr/catalogue/lightning-degree",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lightning-degree.jpg"
-    },
-    {
-        "titre": "Limit Breaker",
-        "lien": "https://anime-sama.fr/catalogue/limit-breaker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/limit-breaker.jpg"
-    },
-    {
         "titre": "Link Click",
         "lien": "https://anime-sama.fr/catalogue/link-click",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/link-click.jpg"
-    },
-    {
-        "titre": "Little Hands",
-        "lien": "https://anime-sama.fr/catalogue/little-hands",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/little-hands.jpg"
     },
     {
         "titre": "Little Witch Academia",
@@ -4133,11 +3138,6 @@
         "titre": "Log Horizon",
         "lien": "https://anime-sama.fr/catalogue/log-horizon",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/log-horizon.jpg"
-    },
-    {
-        "titre": "Logging 10,000 Years Into The Future",
-        "lien": "https://anime-sama.fr/catalogue/logging-10000-years-into-the-future",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/logging-10000-years-into-the-future.jpg"
     },
     {
         "titre": "Loin de moi, près de toi",
@@ -4178,11 +3178,6 @@
         "titre": "Love and Lies",
         "lien": "https://anime-sama.fr/catalogue/love-and-lies",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/love-and-lies.jpg"
-    },
-    {
-        "titre": "Love Fragrance",
-        "lien": "https://anime-sama.fr/catalogue/love-fragrance",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/love-fragrance.jpg"
     },
     {
         "titre": "Love Hina",
@@ -4235,11 +3230,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/loving-yamada-at-lv999.jpg"
     },
     {
-        "titre": "Luca",
-        "lien": "https://anime-sama.fr/catalogue/luca",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/luca.jpg"
-    },
-    {
         "titre": "Luck & Logic",
         "lien": "https://anime-sama.fr/catalogue/luck-and-logic",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/luck-and-logic.jpg"
@@ -4248,21 +3238,6 @@
         "titre": "Lucky Star",
         "lien": "https://anime-sama.fr/catalogue/lucky-star",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lucky-star.jpg"
-    },
-    {
-        "titre": "LUMINE",
-        "lien": "https://anime-sama.fr/catalogue/lumine",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lumine.jpg"
-    },
-    {
-        "titre": "Lupin",
-        "lien": "https://anime-sama.fr/catalogue/lupin",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lupin.jpg"
-    },
-    {
-        "titre": "Lycée post-mortem",
-        "lien": "https://anime-sama.fr/catalogue/lycee-post-mortem",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lycee-post-mortem.jpg"
     },
     {
         "titre": "Lycoris Recoil",
@@ -4300,11 +3275,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magi-the-labyrinth-of-magic.jpg"
     },
     {
-        "titre": "Magic Emperor",
-        "lien": "https://anime-sama.fr/catalogue/magic-emperor/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magic-emperor.jpg"
-    },
-    {
         "titre": "Magic Maker",
         "lien": "https://anime-sama.fr/catalogue/magic-maker",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magic-maker.jpg"
@@ -4318,11 +3288,6 @@
         "titre": "Magical Destroyers",
         "lien": "https://anime-sama.fr/catalogue/magical-destroyers",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magical-destroyers.jpg"
-    },
-    {
-        "titre": "Magical Girl Holy Shit",
-        "lien": "https://anime-sama.fr/catalogue/magical-girl-holy-shit",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magical-girl-holy-shit.jpg"
     },
     {
         "titre": "Magical Girl Site",
@@ -4375,16 +3340,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/management-of-novice-alchemist.jpg"
     },
     {
-        "titre": "Manager kim",
-        "lien": "https://anime-sama.fr/catalogue/manager-kim",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/manager-kim.jpg"
-    },
-    {
-        "titre": "Manchuria Opium Squad",
-        "lien": "https://anime-sama.fr/catalogue/manchuria-opium-squad",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/manchuria-opium-squad.jpg"
-    },
-    {
         "titre": "Maou 2099",
         "lien": "https://anime-sama.fr/catalogue/maou-2099",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maou-2099.jpg"
@@ -4415,26 +3370,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/march-comes-in-like-a-lion.jpg"
     },
     {
-        "titre": "Maria no Danzai",
-        "lien": "https://anime-sama.fr/catalogue/maria-no-danzai",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maria-no-danzai.jpg"
-    },
-    {
-        "titre": "Marriage Toxin",
-        "lien": "https://anime-sama.fr/catalogue/marriage-toxin",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/marriage-toxin.jpg"
-    },
-    {
-        "titre": "Marry my husband",
-        "lien": "https://anime-sama.fr/catalogue/marry-my-husband",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/marry-my-husband.jpg"
-    },
-    {
-        "titre": "Martial Peak",
-        "lien": "https://anime-sama.fr/catalogue/martial-peak",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/martial-peak.jpg"
-    },
-    {
         "titre": "Masamune-kun no Revenge",
         "lien": "https://anime-sama.fr/catalogue/masamune-kun-no-revenge/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/masamune-kun-no-revenge.jpg"
@@ -4445,19 +3380,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mashle.jpg"
     },
     {
-        "titre": "Masked Noise",
-        "lien": "https://anime-sama.fr/catalogue/masked-noise",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/masked-noise.jpg"
-    },
-    {
         "titre": "Mawaru Penguindrum",
         "lien": "https://anime-sama.fr/catalogue/mawaru-penguindrum",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mawaru-penguindrum.jpg"
-    },
-    {
-        "titre": "Maybe Meant to Be",
-        "lien": "https://anime-sama.fr/catalogue/maybe-meant-to-be",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maybe-meant-to-be.jpg"
     },
     {
         "titre": "Mayonaka Punch",
@@ -4493,11 +3418,6 @@
         "titre": "Meikyuu Black Company",
         "lien": "https://anime-sama.fr/catalogue/meikyuu-black-company",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/meikyuu-black-company.jpg"
-    },
-    {
-        "titre": "Mercenary enrollment",
-        "lien": "https://anime-sama.fr/catalogue/mercenary-enrollment",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mercenary-enrollment.jpg"
     },
     {
         "titre": "Mes voisins les Yamada",
@@ -4590,16 +3510,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/momokuri.jpg"
     },
     {
-        "titre": "Mon anti-fan",
-        "lien": "https://anime-sama.fr/catalogue/mon-anti-fan",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mon-anti-fan.jpg"
-    },
-    {
-        "titre": "Mon plus grand secret",
-        "lien": "https://anime-sama.fr/catalogue/mon-plus-grand-secret",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mon-plus-grand-secret.jpg"
-    },
-    {
         "titre": "Mon voisin Totoro",
         "lien": "https://anime-sama.fr/catalogue/mon-voisin-totoro",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mon-voisin-totoro.jpg"
@@ -4635,19 +3545,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/moriarty.jpg"
     },
     {
-        "titre": "Mort Imminente",
-        "lien": "https://anime-sama.fr/catalogue/mort-imminente",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mort-imminente.jpg"
-    },
-    {
         "titre": "Mou Ippon!",
         "lien": "https://anime-sama.fr/catalogue/mou-ippon",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mou-ippon.jpg"
-    },
-    {
-        "titre": "Murim Login",
-        "lien": "https://anime-sama.fr/catalogue/murim-login",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/murim-login.jpg"
     },
     {
         "titre": "Musaigen no Phantom World",
@@ -4670,11 +3570,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-clueless-first-friend.jpg"
     },
     {
-        "titre": "My Dad Is Too Strong",
-        "lien": "https://anime-sama.fr/catalogue/my-dad-is-too-strong",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-dad-is-too-strong.jpg"
-    },
-    {
         "titre": "My Daemon",
         "lien": "https://anime-sama.fr/catalogue/my-daemon",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-daemon.jpg"
@@ -4693,11 +3588,6 @@
         "titre": "My Dress-Up Darling",
         "lien": "https://anime-sama.fr/catalogue/my-dress-up-darling",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-dress-up-darling.jpg"
-    },
-    {
-        "titre": "My Gift LVL 9999 Unlimited Gacha",
-        "lien": "https://anime-sama.fr/catalogue/my-gift-lvl-9999-unlimited-gacha",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-gift-lvl-9999-unlimited-gacha.jpg"
     },
     {
         "titre": "My Happy Marriage",
@@ -4725,16 +3615,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-love-story.jpg"
     },
     {
-        "titre": "My lovely Bodyguard",
-        "lien": "https://anime-sama.fr/catalogue/my-lovely-bodyguard",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-lovely-bodyguard.jpg"
-    },
-    {
-        "titre": "My Name",
-        "lien": "https://anime-sama.fr/catalogue/my-name",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-name.jpg"
-    },
-    {
         "titre": "My New Boss is Goofy",
         "lien": "https://anime-sama.fr/catalogue/my-new-boss-is-goofy",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-new-boss-is-goofy.jpg"
@@ -4755,11 +3635,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-roommate-is-a-cat.jpg"
     },
     {
-        "titre": "My School Life Pretending To Be a Worthless Person",
-        "lien": "https://anime-sama.fr/catalogue/my-school-life-pretending-to-be-a-worthless-person",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-school-life-pretending-to-be-a-worthless-person.jpg"
-    },
-    {
         "titre": "My Stepmom's Daughter Is My Ex",
         "lien": "https://anime-sama.fr/catalogue/my-stepmoms-daughter-is-my-ex",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-stepmoms-daughter-is-my-ex.jpg"
@@ -4773,16 +3648,6 @@
         "titre": "My Wife Has no Emotion",
         "lien": "https://anime-sama.fr/catalogue/my-wife-has-no-emotion",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-wife-has-no-emotion.jpg"
-    },
-    {
-        "titre": "My Wife is from a Thousand Years Ago",
-        "lien": "https://anime-sama.fr/catalogue/my-wife-is-from-a-thousand-years-ago",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-wife-is-from-a-thousand-years-ago.jpg"
-    },
-    {
-        "titre": "Myst Might Mayhem",
-        "lien": "https://anime-sama.fr/catalogue/myst-might-mayhem",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/myst-might-mayhem.jpg"
     },
     {
         "titre": "Mysteria Friends",
@@ -4810,16 +3675,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/naka-no-hito-genome-jikkyouchuu.jpg"
     },
     {
-        "titre": "Nan Hao and Shang Feng",
-        "lien": "https://anime-sama.fr/catalogue/nan-hao-and-shang-feng",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nan-hao-and-shang-feng.jpg"
-    },
-    {
-        "titre": "Nan Yak",
-        "lien": "https://anime-sama.fr/catalogue/nan-yak",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nan-yak.jpg"
-    },
-    {
         "titre": "Nana",
         "lien": "https://anime-sama.fr/catalogue/nana/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nana.jpg"
@@ -4830,29 +3685,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nanare-hananare.jpg"
     },
     {
-        "titre": "Nanba MG5",
-        "lien": "https://anime-sama.fr/catalogue/nanba-mg5",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nanba-mg5.jpg"
-    },
-    {
         "titre": "Nanbaka",
         "lien": "https://anime-sama.fr/catalogue/nanbaka",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nanbaka.jpg"
     },
     {
-        "titre": "Nano machine",
-        "lien": "https://anime-sama.fr/catalogue/nano-machine",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nano-machine.jpg"
-    },
-    {
         "titre": "Naruto",
         "lien": "https://anime-sama.fr/catalogue/naruto/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/naruto.jpg"
-    },
-    {
-        "titre": "Naruto Gaiden: La Spirale Au Coeur Du Tourbillon",
-        "lien": "https://anime-sama.fr/catalogue/naruto-gaiden-la-spirale-au-coeur-du-tourbillon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/naruto-gaiden-la-spirale-au-coeur-du-tourbillon.jpg"
     },
     {
         "titre": "Naruto SD Rock Lee",
@@ -4925,11 +3765,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nina-the-starry-bride.jpg"
     },
     {
-        "titre": "Nine Peaks",
-        "lien": "https://anime-sama.fr/catalogue/nine-peaks",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nine-peaks.jpg"
-    },
-    {
         "titre": "Ningen Fushin",
         "lien": "https://anime-sama.fr/catalogue/ningen-fushin",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ningen-fushin.jpg"
@@ -4995,11 +3830,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/noucome.jpg"
     },
     {
-        "titre": "Nouvelle Ecole",
-        "lien": "https://anime-sama.fr/catalogue/nouvelle-ecole",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nouvelle-ecole.jpg"
-    },
-    {
         "titre": "NTR: Netsuzou Trap",
         "lien": "https://anime-sama.fr/catalogue/ntr-netsuzou-trap",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ntr-netsuzou-trap.jpg"
@@ -5008,11 +3838,6 @@
         "titre": "Nurarihyon no Mago",
         "lien": "https://anime-sama.fr/catalogue/nurarihyon-no-mago",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nurarihyon-no-mago.jpg"
-    },
-    {
-        "titre": "Obi Wan Kenobi",
-        "lien": "https://anime-sama.fr/catalogue/obi-wan-kenobi",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/obi-wan-kenobi.jpg"
     },
     {
         "titre": "Oda Nobuna no Yabou",
@@ -5075,11 +3900,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/onimai-im-now-your-sister.jpg"
     },
     {
-        "titre": "Operation : True Love",
-        "lien": "https://anime-sama.fr/catalogue/operation-true-love",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/operation-true-love.jpg"
-    },
-    {
         "titre": "Opus.COLORs",
         "lien": "https://anime-sama.fr/catalogue/opus-colors",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/opus-colors.jpg"
@@ -5093,11 +3913,6 @@
         "titre": "Orb: On the Movements of the Earth",
         "lien": "https://anime-sama.fr/catalogue/orb-on-the-movements-of-the-earth",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/orb-on-the-movements-of-the-earth.jpg"
-    },
-    {
-        "titre": "Ordeal",
-        "lien": "https://anime-sama.fr/catalogue/ordeal",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ordeal.jpg"
     },
     {
         "titre": "Oregairu",
@@ -5170,11 +3985,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ousama-ranking.jpg"
     },
     {
-        "titre": "OUT",
-        "lien": "https://anime-sama.fr/catalogue/out",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/out.jpg"
-    },
-    {
         "titre": "Outbreak Company",
         "lien": "https://anime-sama.fr/catalogue/outbreak-company",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/outbreak-company.jpg"
@@ -5183,16 +3993,6 @@
         "titre": "Outlaw Star",
         "lien": "https://anime-sama.fr/catalogue/outlaw-star",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/outlaw-star.jpg"
-    },
-    {
-        "titre": "Over the Garden Wall",
-        "lien": "https://anime-sama.fr/catalogue/over-the-garden-wall",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/over-the-garden-wall.jpg"
-    },
-    {
-        "titre": "Overgeared",
-        "lien": "https://anime-sama.fr/catalogue/overgeared",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/overgeared.jpg"
     },
     {
         "titre": "Overlord",
@@ -5265,34 +4065,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/perfect-blue.jpg"
     },
     {
-        "titre": "Perfect Crime",
-        "lien": "https://anime-sama.fr/catalogue/perfect-crime",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/perfect-crime.jpg"
-    },
-    {
         "titre": "Persona",
         "lien": "https://anime-sama.fr/catalogue/persona",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/persona-5-the-animation.jpg"
     },
     {
-        "titre": "Phineas et Ferb",
-        "lien": "https://anime-sama.fr/catalogue/phineas-et-ferb",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/phineas-et-ferb.jpg"
-    },
-    {
         "titre": "Piano Forest",
         "lien": "https://anime-sama.fr/catalogue/piano-forest",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/piano-forest.jpg"
-    },
-    {
-        "titre": "Pick Me Up",
-        "lien": "https://anime-sama.fr/catalogue/pick-me-up",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pick-me-up.jpg"
-    },
-    {
-        "titre": "PIGPEN",
-        "lien": "https://anime-sama.fr/catalogue/pigpen",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pigpen.jpg"
     },
     {
         "titre": "Ping Pong The Animation",
@@ -5320,16 +4100,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/play-it-cool-guys.jpg"
     },
     {
-        "titre": "player",
-        "lien": "https://anime-sama.fr/catalogue/player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/player.jpg"
-    },
-    {
-        "titre": "Player who returned 10 000 years later",
-        "lien": "https://anime-sama.fr/catalogue/player-who-returned-10-000-years-later",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/player-who-returned-10-000-years-later.jpg"
-    },
-    {
         "titre": "Plunderer",
         "lien": "https://anime-sama.fr/catalogue/plunderer",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/plunderer.jpg"
@@ -5338,16 +4108,6 @@
         "titre": "Pluto",
         "lien": "https://anime-sama.fr/catalogue/pluto",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pluto.jpg"
-    },
-    {
-        "titre": "Poison City",
-        "lien": "https://anime-sama.fr/catalogue/poison-city",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/poison-city.jpg"
-    },
-    {
-        "titre": "Poison Dragon The Legend of an Asura",
-        "lien": "https://anime-sama.fr/catalogue/poison-dragon-the-legend-of-an-asura",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/poison-dragon-the-legend-of-an-asura.jpg"
     },
     {
         "titre": "Pokémon",
@@ -5395,11 +4155,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/potion-danomi-de-ikinobimasu.jpg"
     },
     {
-        "titre": "Pour le pire",
-        "lien": "https://anime-sama.fr/catalogue/pour-le-pire",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pour-le-pire.jpg"
-    },
-    {
         "titre": "Pretty Boy Detective Club",
         "lien": "https://anime-sama.fr/catalogue/pretty-boy-detective-club/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pretty-boy-detective-club.jpg"
@@ -5440,11 +4195,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/prison-school.jpg"
     },
     {
-        "titre": "Prisonnier Riku",
-        "lien": "https://anime-sama.fr/catalogue/prisonnier-riku",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/prisonnier-riku.jpg"
-    },
-    {
         "titre": "Promise of Wizard",
         "lien": "https://anime-sama.fr/catalogue/promise-of-wizard",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/promise-of-wizard.jpg"
@@ -5463,11 +4213,6 @@
         "titre": "Qualidea Code",
         "lien": "https://anime-sama.fr/catalogue/qualidea-code",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/qualidea-code.jpg"
-    },
-    {
-        "titre": "Quest Supremacy",
-        "lien": "https://anime-sama.fr/catalogue/quest-supremacy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/quest-supremacy0.jpg"
     },
     {
         "titre": "Radiant",
@@ -5510,11 +4255,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rascal-does-not-dream-of-bunny-girl-senpai.jpg"
     },
     {
-        "titre": "Ratz",
-        "lien": "https://anime-sama.fr/catalogue/ratz",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ratz.jpg"
-    },
-    {
         "titre": "Raven of the Inner Palace",
         "lien": "https://anime-sama.fr/catalogue/raven-of-the-inner-palace",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/raven-of-the-inner-palace.jpg"
@@ -5540,21 +4280,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/re-zero.jpg"
     },
     {
-        "titre": "REAL",
-        "lien": "https://anime-sama.fr/catalogue/real",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/real.jpg"
-    },
-    {
-        "titre": "Reality quest",
-        "lien": "https://anime-sama.fr/catalogue/reality-quest",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reality-quest.jpg"
-    },
-    {
-        "titre": "Reaper of the Drifting Moon",
-        "lien": "https://anime-sama.fr/catalogue/reaper-of-the-drifting-moon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reaper-of-the-drifting-moon.jpg"
-    },
-    {
         "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon",
         "lien": "https://anime-sama.fr/catalogue/reborn-as-a-vending-machine-i-now-wander-the-dungeon",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reborn-as-a-vending-machine-i-now-wander-the-dungeon.jpg"
@@ -5570,34 +4295,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/recovery-of-an-mmo-junkie.jpg"
     },
     {
-        "titre": "Red Raven",
-        "lien": "https://anime-sama.fr/catalogue/red-raven",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/red-raven.jpg"
-    },
-    {
-        "titre": "Regressing with the King's Power",
-        "lien": "https://anime-sama.fr/catalogue/regressing-with-the-kings-power",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/regressing-with-the-kings-power.jpg"
-    },
-    {
-        "titre": "Regressor Instruction Manual",
-        "lien": "https://anime-sama.fr/catalogue/regressor-instruction-manual",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/regressor-instruction-manual.jpg"
-    },
-    {
-        "titre": "Regular Show",
-        "lien": "https://anime-sama.fr/catalogue/regular-show",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/regular-show.jpg"
-    },
-    {
         "titre": "Reign of the Seven Spellblades",
         "lien": "https://anime-sama.fr/catalogue/reign-of-the-seven-spellblades",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reign-of-the-seven-spellblades.jpg"
-    },
-    {
-        "titre": "Reincarnated as a Genius Prodigy of a Prestigious Family",
-        "lien": "https://anime-sama.fr/catalogue/reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reincarnated-as-a-genius-prodigy-of-a-prestigious-family.jpg"
     },
     {
         "titre": "Reincarnated as a Sword",
@@ -5605,19 +4305,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reincarnated-as-a-sword.jpg"
     },
     {
-        "titre": "Reincarnation of a Martial Prodigy",
-        "lien": "https://anime-sama.fr/catalogue/reincarnation-of-a-martial-prodigy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reincarnation-of-a-martial-prodigy.jpg"
-    },
-    {
         "titre": "ReLIFE",
         "lien": "https://anime-sama.fr/catalogue/relife/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/relife.jpg"
-    },
-    {
-        "titre": "ReLife Player",
-        "lien": "https://anime-sama.fr/catalogue/relife-player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/relife-player.jpg"
     },
     {
         "titre": "Remake our Life",
@@ -5625,24 +4315,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/remake-our-life.jpg"
     },
     {
-        "titre": "Remplacement de fortune",
-        "lien": "https://anime-sama.fr/catalogue/remplacement-de-fortune",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/remplacement-de-fortune.jpg"
-    },
-    {
-        "titre": "Renai Daikou",
-        "lien": "https://anime-sama.fr/catalogue/renai-daikou",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/renai-daikou.jpg"
-    },
-    {
         "titre": "Renai Flops",
         "lien": "https://anime-sama.fr/catalogue/renai-flops/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/renai-flops.jpg"
-    },
-    {
-        "titre": "Rendez-vous au crépuscule",
-        "lien": "https://anime-sama.fr/catalogue/rendez-vous-au-crepuscule",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rendez-vous-au-crepuscule.jpg"
     },
     {
         "titre": "Rent A Girlfriend",
@@ -5660,69 +4335,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/restaurant-to-another-world.jpg"
     },
     {
-        "titre": "Return Of The 8th Class Magician",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-8th-class-magician",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-8th-class-magician.jpg"
-    },
-    {
-        "titre": "Return of the Broken Constellation",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-broken-constellation",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-broken-constellation.jpg"
-    },
-    {
-        "titre": "Return of the Frozen Player",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-frozen-player/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-frozen-player.jpg"
-    },
-    {
-        "titre": "Return of the Genius Player",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-genius-player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-genius-player.jpg"
-    },
-    {
-        "titre": "Return of the Iron-Blooded Hound",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-iron-blooded-hound",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-iron-blooded-hound.jpg"
-    },
-    {
-        "titre": "Return of The Legendary Spear Knight",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-legendary-spear-knight",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-legendary-spear-knight.jpg"
-    },
-    {
-        "titre": "Return of the Mad Demon",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-mad-demon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-mad-demon.jpg"
-    },
-    {
-        "titre": "Return Of the SSS-Class Ranker",
-        "lien": "https://anime-sama.fr/catalogue/return-of-the-sss-class-ranker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-of-the-sss-class-ranker.jpg"
-    },
-    {
-        "titre": "Return to Player",
-        "lien": "https://anime-sama.fr/catalogue/return-to-player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/return-to-player.jpg"
-    },
-    {
         "titre": "Revenger",
         "lien": "https://anime-sama.fr/catalogue/revenger",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/revenger.jpg"
     },
     {
-        "titre": "Rick et Morty",
-        "lien": "https://anime-sama.fr/catalogue/rick-et-morty",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rick-et-morty.jpg"
-    },
-    {
         "titre": "Ride Your Wave",
         "lien": "https://anime-sama.fr/catalogue/ride-your-wave",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ride-your-wave.jpg"
-    },
-    {
-        "titre": "Rikudo",
-        "lien": "https://anime-sama.fr/catalogue/rikudo",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rikudo.jpg"
     },
     {
         "titre": "Rising Impact",
@@ -5778,11 +4398,6 @@
         "titre": "Runway de Waratte",
         "lien": "https://anime-sama.fr/catalogue/runway-de-waratte",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/runway-de-waratte.jpg"
-    },
-    {
-        "titre": "Ruri Dragon",
-        "lien": "https://anime-sama.fr/catalogue/ruri-dragon",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ruri-dragon.jpg"
     },
     {
         "titre": "RWBY",
@@ -5895,11 +4510,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sand-land.jpg"
     },
     {
-        "titre": "Sangs et papillons",
-        "lien": "https://anime-sama.fr/catalogue/sangs-et-papillons",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sangs-et-papillons.jpg"
-    },
-    {
         "titre": "Sanrio Boys",
         "lien": "https://anime-sama.fr/catalogue/sanrio-boys",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sanrio-boys.jpg"
@@ -5928,11 +4538,6 @@
         "titre": "Saving 80,000 Gold in Another World for my Retirement",
         "lien": "https://anime-sama.fr/catalogue/saving-80000-gold-in-another-world-for-my-retirement",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/saving-80000-gold-in-another-world-for-my-retirement.jpg"
-    },
-    {
-        "titre": "Savior of Divine Blood",
-        "lien": "https://anime-sama.fr/catalogue/savior-of-divine-blood",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/savior-of-divine-blood.jpg"
     },
     {
         "titre": "Say 'I Love You'",
@@ -5978,11 +4583,6 @@
         "titre": "Scott Pilgrim",
         "lien": "https://anime-sama.fr/catalogue/scott-pilgrim",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/scott-pilgrim.jpg"
-    },
-    {
-        "titre": "Second Life Ranker",
-        "lien": "https://anime-sama.fr/catalogue/second-life-ranker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/second-life-ranker.jpg"
     },
     {
         "titre": "Seija Musou",
@@ -6068,11 +4668,6 @@
         "titre": "Sentouin, Hakenshimasu!",
         "lien": "https://anime-sama.fr/catalogue/sentouin-hakenshimasu/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sentouin-hakenshimasu.jpg"
-    },
-    {
-        "titre": "Seoul Station Necromancer",
-        "lien": "https://anime-sama.fr/catalogue/seoul-station-necromancer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seoul-station-necromancer.jpg"
     },
     {
         "titre": "Serial Experiments Lain",
@@ -6260,11 +4855,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sk8-the-infinity.jpg"
     },
     {
-        "titre": "SK8R'S",
-        "lien": "https://anime-sama.fr/catalogue/sk8rs",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sk8rs.jpg"
-    },
-    {
         "titre": "Skate Leading Stars",
         "lien": "https://anime-sama.fr/catalogue/skate-leading-stars",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/skate-leading-stars.jpg"
@@ -6273,11 +4863,6 @@
         "titre": "Skeleton Knight in Another World",
         "lien": "https://anime-sama.fr/catalogue/skeleton-knight-in-another-world",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/skeleton-knight-in-another-world.jpg"
-    },
-    {
-        "titre": "Skeleton Soldier",
-        "lien": "https://anime-sama.fr/catalogue/skeleton-soldier",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/skeleton-soldier.jpg"
     },
     {
         "titre": "Skip to Loafer",
@@ -6295,16 +4880,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/slam-dunk.jpg"
     },
     {
-        "titre": "Slave B",
-        "lien": "https://anime-sama.fr/catalogue/slave-b",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/slave-b.jpg"
-    },
-    {
-        "titre": "Sleeping Ranker",
-        "lien": "https://anime-sama.fr/catalogue/sleeping-ranker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sleeping-ranker.jpg"
-    },
-    {
         "titre": "Slow Loop",
         "lien": "https://anime-sama.fr/catalogue/slow-loop",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/slow-loop.jpg"
@@ -6318,21 +4893,6 @@
         "titre": "Solo Leveling",
         "lien": "https://anime-sama.fr/catalogue/solo-leveling/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-leveling0.jpg"
-    },
-    {
-        "titre": "Solo Login",
-        "lien": "https://anime-sama.fr/catalogue/solo-login",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-login.jpg"
-    },
-    {
-        "titre": "Solo Necromancy",
-        "lien": "https://anime-sama.fr/catalogue/solo-necromancy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-necromancy.jpg"
-    },
-    {
-        "titre": "Solo Spell Caster",
-        "lien": "https://anime-sama.fr/catalogue/solo-spell-caster",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-spell-caster.jpg"
     },
     {
         "titre": "Somali to Mori no Kamisama",
@@ -6368,16 +4928,6 @@
         "titre": "Soul Eater Not!",
         "lien": "https://anime-sama.fr/catalogue/soul-eater-not",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/soul-eater-not.jpg"
-    },
-    {
-        "titre": "South Park",
-        "lien": "https://anime-sama.fr/catalogue/south-park",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/south-park.jpg"
-    },
-    {
-        "titre": "Souvenir de Gravity Falls",
-        "lien": "https://anime-sama.fr/catalogue/souvenir-de-gravity-falls",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/souvenir-de-gravity-falls.jpg"
     },
     {
         "titre": "Souvenirs de Marnie",
@@ -6425,26 +4975,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/spy-x-family.jpg"
     },
     {
-        "titre": "Squid Game",
-        "lien": "https://anime-sama.fr/catalogue/squid-game",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/squid-game.jpg"
-    },
-    {
-        "titre": "SSS Grade Saint Knight",
-        "lien": "https://anime-sama.fr/catalogue/sss-grade-saint-knight",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sss-grade-saint-knight.jpg"
-    },
-    {
-        "titre": "SSS-Class Gacha hunter",
-        "lien": "https://anime-sama.fr/catalogue/sss-class-gacha-hunter",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sss-class-gacha-hunter.jpg"
-    },
-    {
-        "titre": "SSS-Class Revival Hunter",
-        "lien": "https://anime-sama.fr/catalogue/sss-class-revival-hunter/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sss-class-revival-hunter.jpg"
-    },
-    {
         "titre": "SSSS.Dynazenon",
         "lien": "https://anime-sama.fr/catalogue/ssss-dynazenon/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ssss-dynazenon.jpg"
@@ -6455,21 +4985,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ssss-gridman.jpg"
     },
     {
-        "titre": "Standard of Reincarnation",
-        "lien": "https://anime-sama.fr/catalogue/standard-of-reincarnation",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/standard-of-reincarnation.jpg"
-    },
-    {
-        "titre": "Star Butterfly",
-        "lien": "https://anime-sama.fr/catalogue/star-butterfly",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-butterfly.jpg"
-    },
-    {
-        "titre": "Star Martial God Technique",
-        "lien": "https://anime-sama.fr/catalogue/star-martial-god-technique",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-martial-god-technique.jpg"
-    },
-    {
         "titre": "Star Wars : Visions",
         "lien": "https://anime-sama.fr/catalogue/star-wars-visions",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-wars-visions.jpg"
@@ -6478,11 +4993,6 @@
         "titre": "Star Wars Tales of the Jedi",
         "lien": "https://anime-sama.fr/catalogue/star-wars-tales-of-the-jedi",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-wars-tales-of-the-jedi.jpg"
-    },
-    {
-        "titre": "Star-Embracing Swordmaster",
-        "lien": "https://anime-sama.fr/catalogue/star-embracing-swordmaster",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-embracing-swordmaster.jpg"
     },
     {
         "titre": "Stardust Telepath",
@@ -6500,21 +5010,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/steins-gate.jpg"
     },
     {
-        "titre": "Steven Universe",
-        "lien": "https://anime-sama.fr/catalogue/steven-universe",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/steven-universe.jpg"
-    },
-    {
-        "titre": "Stranger Things",
-        "lien": "https://anime-sama.fr/catalogue/stranger-things",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/stranger-things.jpg"
-    },
-    {
-        "titre": "Strangers from Hell",
-        "lien": "https://anime-sama.fr/catalogue/strangers-from-hell",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/strangers-from-hell.jpg"
-    },
-    {
         "titre": "Strike the Blood",
         "lien": "https://anime-sama.fr/catalogue/strike-the-blood",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/strike-the-blood.jpg"
@@ -6523,16 +5018,6 @@
         "titre": "Strike Witches",
         "lien": "https://anime-sama.fr/catalogue/strike-witches",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/strike-witches.jpg"
-    },
-    {
-        "titre": "Study Group",
-        "lien": "https://anime-sama.fr/catalogue/study-group",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/study-group.jpg"
-    },
-    {
-        "titre": "SubZero",
-        "lien": "https://anime-sama.fr/catalogue/subzero",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/subzero.jpg"
     },
     {
         "titre": "Sugar Apple Fairy Tale",
@@ -6585,11 +5070,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/super-dragon-ball-heroes.jpg"
     },
     {
-        "titre": "Super Evolution",
-        "lien": "https://anime-sama.fr/catalogue/super-evolution",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/super-evolution.jpg"
-    },
-    {
         "titre": "Surgeon Elise",
         "lien": "https://anime-sama.fr/catalogue/surgeon-elise",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/surgeon-elise.jpg"
@@ -6603,16 +5083,6 @@
         "titre": "Suzumiya Haruhi no Yuuutsu",
         "lien": "https://anime-sama.fr/catalogue/suzumiya-haruhi-no-yuuutsu",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzumiya-haruhi-no-yuuutsu.jpg"
-    },
-    {
-        "titre": "Sweet Home",
-        "lien": "https://anime-sama.fr/catalogue/sweet-home",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sweet-home.jpg"
-    },
-    {
-        "titre": "Sweet Home",
-        "lien": "https://anime-sama.fr/catalogue/sweet-home2",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sweet-home2.jpg"
     },
     {
         "titre": "Sweet Reincarnation",
@@ -6633,11 +5103,6 @@
         "titre": "Sword of the Stranger",
         "lien": "https://anime-sama.fr/catalogue/sword-of-the-stranger",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sword-of-the-stranger.jpg"
-    },
-    {
-        "titre": "Swordmaster's Youngest son",
-        "lien": "https://anime-sama.fr/catalogue/swordmasters-youngest-son",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/swordmasters-youngest-son.jpg"
     },
     {
         "titre": "Synduality Noir",
@@ -6673,11 +5138,6 @@
         "titre": "Talentless Nana",
         "lien": "https://anime-sama.fr/catalogue/talentless-nana/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/talentless-nana.jpg"
-    },
-    {
-        "titre": "Tales Of Demons And Gods",
-        "lien": "https://anime-sama.fr/catalogue/tales-of-demons-and-gods",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tales-of-demons-and-gods.jpg"
     },
     {
         "titre": "Tales of Wedding Rings",
@@ -6780,11 +5240,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/terror-in-resonance.jpg"
     },
     {
-        "titre": "Terror Man",
-        "lien": "https://anime-sama.fr/catalogue/terror-man",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/terror-man.jpg"
-    },
-    {
         "titre": "Tesla Note",
         "lien": "https://anime-sama.fr/catalogue/tesla-note",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tesla-note.jpg"
@@ -6798,11 +5253,6 @@
         "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
         "lien": "https://anime-sama.fr/catalogue/the-100-girlfriends-who-really-really-really-really-really-love-you",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-100-girlfriends-who-really-really-really-really-really-love-you.jpg"
-    },
-    {
-        "titre": "The academy's Undercover Professor",
-        "lien": "https://anime-sama.fr/catalogue/the-academys-undercover-professor",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-academys-undercover-professor.jpg"
     },
     {
         "titre": "The Ancient Magus Bride",
@@ -6825,54 +5275,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-banished-former-hero-lives-as-he-pleases.jpg"
     },
     {
-        "titre": "The Beginning After the End",
-        "lien": "https://anime-sama.fr/catalogue/the-beginning-after-the-end/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-beginning-after-the-end.jpg"
-    },
-    {
-        "titre": "The Boondocks",
-        "lien": "https://anime-sama.fr/catalogue/the-boondocks",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-boondocks.jpg"
-    },
-    {
-        "titre": "The boxer",
-        "lien": "https://anime-sama.fr/catalogue/the-boxer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-boxer.jpg"
-    },
-    {
-        "titre": "The Breaker",
-        "lien": "https://anime-sama.fr/catalogue/the-breaker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-breaker.jpg"
-    },
-    {
-        "titre": "The Constellation That Returned From Hell",
-        "lien": "https://anime-sama.fr/catalogue/the-constellation-that-returned-from-hell",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-constellation-that-returned-from-hell.jpg"
-    },
-    {
-        "titre": "The Constellations Are My Disciples",
-        "lien": "https://anime-sama.fr/catalogue/the-constellations-are-my-disciples",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-constellations-are-my-disciples.jpg"
-    },
-    {
-        "titre": "The Count’s Youngest Son Is a Player",
-        "lien": "https://anime-sama.fr/catalogue/the-counts-youngest-son-is-a-player",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-counts-youngest-son-is-a-player.jpg"
-    },
-    {
-        "titre": "The Cuphead Show",
-        "lien": "https://anime-sama.fr/catalogue/the-cuphead-show",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-cuphead-show.jpg"
-    },
-    {
         "titre": "The Daily Life of The Immortal King",
         "lien": "https://anime-sama.fr/catalogue/the-daily-life-of-the-immortal-king",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-daily-life-of-the-immortal-king.jpg"
-    },
-    {
-        "titre": "The Dark Mage’s Return to Enlistment",
-        "lien": "https://anime-sama.fr/catalogue/the-dark-mages-return-to-enlistment",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-dark-mages-return-to-enlistment.jpg"
     },
     {
         "titre": "The Day I Became A God",
@@ -6890,11 +5295,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-demon-prince-and-momochi.jpg"
     },
     {
-        "titre": "The Descent of the Demonic Master",
-        "lien": "https://anime-sama.fr/catalogue/the-descent-of-the-demonic-master",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-descent-of-the-demonic-master.jpg"
-    },
-    {
         "titre": "The Do-Over Damsel Conquers the Dragon Emperor",
         "lien": "https://anime-sama.fr/catalogue/the-do-over-damsel-conquers-the-dragon-emperor",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-do-over-damsel-conquers-the-dragon-emperor.jpg"
@@ -6903,11 +5303,6 @@
         "titre": "The Dreaming Man is a Realist",
         "lien": "https://anime-sama.fr/catalogue/the-dreaming-man-is-a-realist",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-dreaming-man-is-a-realist.jpg"
-    },
-    {
-        "titre": "The Druid of Seoul station",
-        "lien": "https://anime-sama.fr/catalogue/the-druid-of-seoul-station",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-druid-of-seoul-station.jpg"
     },
     {
         "titre": "The Elusive Samurai",
@@ -6920,16 +5315,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-eminence-in-shadow.jpg"
     },
     {
-        "titre": "The Executioner",
-        "lien": "https://anime-sama.fr/catalogue/the-executioner",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-executioner.jpg"
-    },
-    {
-        "titre": "The Extra’s Academy Survival Guide",
-        "lien": "https://anime-sama.fr/catalogue/the-extras-academy-survival-guide",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-extras-academy-survival-guide.jpg"
-    },
-    {
         "titre": "The Fable",
         "lien": "https://anime-sama.fr/catalogue/the-fable",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-fable0.jpg"
@@ -6938,11 +5323,6 @@
         "titre": "The Fire Hunter",
         "lien": "https://anime-sama.fr/catalogue/the-fire-hunter",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-fire-hunter.jpg"
-    },
-    {
-        "titre": "The Gamer",
-        "lien": "https://anime-sama.fr/catalogue/the-gamer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-gamer.jpg"
     },
     {
         "titre": "The Garden of Sinners",
@@ -6960,11 +5340,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-girl-downstairs.jpg"
     },
     {
-        "titre": "The Girl From Random Chatting",
-        "lien": "https://anime-sama.fr/catalogue/the-girl-from-random-chatting",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-girl-from-random-chatting.jpg"
-    },
-    {
         "titre": "The Girl from the Other Side",
         "lien": "https://anime-sama.fr/catalogue/the-girl-from-the-other-side",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-girl-from-the-other-side.jpg"
@@ -6980,34 +5355,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-god-of-high-school.jpg"
     },
     {
-        "titre": "The Great Mage Returns After 4000 Years",
-        "lien": "https://anime-sama.fr/catalogue/the-great-mage-returns-after-4000-years",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-great-mage-returns-after-4000-years.jpg"
-    },
-    {
         "titre": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
         "lien": "https://anime-sama.fr/catalogue/the-greatest-demon-lord-is-reborn-as-a-typical-nobody",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-greatest-demon-lord-is-reborn-as-a-typical-nobody.jpg"
     },
     {
-        "titre": "The Greatest Estate Developer",
-        "lien": "https://anime-sama.fr/catalogue/the-greatest-estate-developer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-greatest-estate-developer.jpg"
-    },
-    {
         "titre": "The Grimm Variation",
         "lien": "https://anime-sama.fr/catalogue/the-grimm-variation",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-grimm-variation.jpg"
-    },
-    {
-        "titre": "The Heavenly Demon Can’t Live a Normal Life",
-        "lien": "https://anime-sama.fr/catalogue/the-heavenly-demon-cant-live-a-normal-life",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-heavenly-demon-cant-live-a-normal-life.jpg"
-    },
-    {
-        "titre": "The Hero Returns",
-        "lien": "https://anime-sama.fr/catalogue/the-hero-returns",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-hero-returns.jpg"
     },
     {
         "titre": "The Heroic Legend of Arslan",
@@ -7018,11 +5373,6 @@
         "titre": "The Hidden Dungeon",
         "lien": "https://anime-sama.fr/catalogue/the-hidden-dungeon",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-hidden-dungeon.jpg"
-    },
-    {
-        "titre": "The House Without Time",
-        "lien": "https://anime-sama.fr/catalogue/the-house-without-time",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-house-without-time.jpg"
     },
     {
         "titre": "The Ice Guy & The Cool Girl",
@@ -7045,11 +5395,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-irregular-at-magic-high-school.jpg"
     },
     {
-        "titre": "The Killer Inside",
-        "lien": "https://anime-sama.fr/catalogue/the-killer-inside",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-killer-inside.jpg"
-    },
-    {
         "titre": "The King's Avatar",
         "lien": "https://anime-sama.fr/catalogue/the-kings-avatar",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-kings-avatar.jpg"
@@ -7058,16 +5403,6 @@
         "titre": "The Kingdoms of Ruin",
         "lien": "https://anime-sama.fr/catalogue/the-kingdoms-of-ruin",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-kingdoms-of-ruin.jpg"
-    },
-    {
-        "titre": "The Knight of Embers",
-        "lien": "https://anime-sama.fr/catalogue/the-knight-of-embers",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-knight-of-embers.jpg"
-    },
-    {
-        "titre": "The Last Adventurer",
-        "lien": "https://anime-sama.fr/catalogue/the-last-adventurer",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-last-adventurer.jpg"
     },
     {
         "titre": "The Last Summoner",
@@ -7090,11 +5425,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-little-lies-we-all-tell.jpg"
     },
     {
-        "titre": "The Mafia Nanny",
-        "lien": "https://anime-sama.fr/catalogue/the-mafia-nanny",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-mafia-nanny.jpg"
-    },
-    {
         "titre": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
         "lien": "https://anime-sama.fr/catalogue/the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady.jpg"
@@ -7103,21 +5433,6 @@
         "titre": "The Maid I hired recently is Mysterious...",
         "lien": "https://anime-sama.fr/catalogue/the-maid-i-hired-recently-is-mysterious",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-maid-i-hired-recently-is-mysterious.jpg"
-    },
-    {
-        "titre": "The Max Level Hero has Returned!",
-        "lien": "https://anime-sama.fr/catalogue/the-max-level-hero-has-returned",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-max-level-hero-has-returned.jpg"
-    },
-    {
-        "titre": "The Max Level Returner",
-        "lien": "https://anime-sama.fr/catalogue/the-max-level-returner",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-max-level-returner.jpg"
-    },
-    {
-        "titre": "The Max-Level Player's 100th Regression",
-        "lien": "https://anime-sama.fr/catalogue/the-max-level-players-100th-regression",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-max-level-players-100th-regression.jpg"
     },
     {
         "titre": "The Millionaire Detective",
@@ -7145,34 +5460,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-new-gate.jpg"
     },
     {
-        "titre": "The Newbie Is Too Strong",
-        "lien": "https://anime-sama.fr/catalogue/the-newbie-is-too-strong",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-newbie-is-too-strong.jpg"
-    },
-    {
-        "titre": "The Novel's Extra",
-        "lien": "https://anime-sama.fr/catalogue/the-novels-extra",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-novels-extra.jpg"
-    },
-    {
-        "titre": "The Owl House",
-        "lien": "https://anime-sama.fr/catalogue/the-owl-house",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-owl-house.jpg"
-    },
-    {
         "titre": "The Perfect Insider",
         "lien": "https://anime-sama.fr/catalogue/the-perfect-insider",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-perfect-insider.jpg"
-    },
-    {
-        "titre": "The Player that Can't Level Up",
-        "lien": "https://anime-sama.fr/catalogue/player-moshaneun-level-up",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/player-moshaneun-level-up.jpg"
-    },
-    {
-        "titre": "The Priest of Corruption",
-        "lien": "https://anime-sama.fr/catalogue/the-priest-of-corruption",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-priest-of-corruption.jpg"
     },
     {
         "titre": "The Promised Neverland",
@@ -7185,39 +5475,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-quintessential-quintuplets.jpg"
     },
     {
-        "titre": "The Regressed Son of a Duke is an Assassin",
-        "lien": "https://anime-sama.fr/catalogue/the-regressed-son-of-a-duke-is-an-assassin",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-regressed-son-of-a-duke-is-an-assassin.jpg"
-    },
-    {
-        "titre": "The Reincarnated Assassin is a Genius Swordsman",
-        "lien": "https://anime-sama.fr/catalogue/the-reincarnated-assassin-is-a-genius-swordsman",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-reincarnated-assassin-is-a-genius-swordsman.jpg"
-    },
-    {
         "titre": "The Reincarnation of the Strongest Exorcist in Another World",
         "lien": "https://anime-sama.fr/catalogue/the-reincarnation-of-the-strongest-exorcist-in-another-world",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-reincarnation-of-the-strongest-exorcist-in-another-world.jpg"
     },
     {
-        "titre": "The Return of the Disaster-Class Hero",
-        "lien": "https://anime-sama.fr/catalogue/the-return-of-the-disaster-class-hero",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-return-of-the-disaster-class-hero.jpg"
-    },
-    {
-        "titre": "The Returns of The Mount Hua Sect",
-        "lien": "https://anime-sama.fr/catalogue/the-returns-of-the-mount-hua-sect",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-returns-of-the-mount-hua-sect.jpg"
-    },
-    {
         "titre": "The Rising of the Shield Hero",
         "lien": "https://anime-sama.fr/catalogue/the-rising-of-the-shield-hero/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-rising-of-the-shield-hero.jpg"
-    },
-    {
-        "titre": "The S-Classes That I Raised",
-        "lien": "https://anime-sama.fr/catalogue/the-s-classes-that-i-raised",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-s-classes-that-i-raised.jpg"
     },
     {
         "titre": "The Saint's Magic Power Is Omnipotent",
@@ -7230,11 +5495,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-squid-girl.jpg"
     },
     {
-        "titre": "The Story Of a Manga Artist Confined by a Strange High School Girl",
-        "lien": "https://anime-sama.fr/catalogue/the-story-of-a-manga-artist-confined-by-a-strange-high-school-girl",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-story-of-a-manga-artist-confined-by-a-strange-high-school-girl.jpg"
-    },
-    {
         "titre": "The Tale of the Outcasts",
         "lien": "https://anime-sama.fr/catalogue/the-tale-of-the-outcasts",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-tale-of-the-outcasts.jpg"
@@ -7245,29 +5505,14 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-tatami-galaxy.jpg"
     },
     {
-        "titre": "The Terminally Ill Young Master of the Baek Clan",
-        "lien": "https://anime-sama.fr/catalogue/the-terminally-ill-young-master-of-the-baek-clan",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-terminally-ill-young-master-of-the-baek-clan.jpg"
-    },
-    {
         "titre": "The Unwanted Undead Adventurer",
         "lien": "https://anime-sama.fr/catalogue/the-unwanted-undead-adventurer",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-unwanted-undead-adventurer.jpg"
     },
     {
-        "titre": "The Warrior Returns",
-        "lien": "https://anime-sama.fr/catalogue/the-warrior-returns",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-warrior-returns.jpg"
-    },
-    {
         "titre": "The Weakest Tamer Began a Journey to Pick Up Trash",
         "lien": "https://anime-sama.fr/catalogue/the-weakest-tamer-began-a-journey-to-pick-up-trash",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-weakest-tamer-began-a-journey-to-pick-up-trash.jpg"
-    },
-    {
-        "titre": "The World After The Fall",
-        "lien": "https://anime-sama.fr/catalogue/the-world-after-the-fall",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-world-after-the-fall.jpg"
     },
     {
         "titre": "The World Ends with You",
@@ -7375,21 +5620,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tokyo-revengers.jpg"
     },
     {
-        "titre": "Tokyo Underworld",
-        "lien": "https://anime-sama.fr/catalogue/tokyo-underworld",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tokyo-underworld.jpg"
-    },
-    {
-        "titre": "Tomb Raider king",
-        "lien": "https://anime-sama.fr/catalogue/tomb-raider-king",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tomb-raider-king.jpg"
-    },
-    {
-        "titre": "Tomié",
-        "lien": "https://anime-sama.fr/catalogue/tomie",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tomie.jpg"
-    },
-    {
         "titre": "Tomo-chan Is a Girl!",
         "lien": "https://anime-sama.fr/catalogue/tomo-chan-is-a-girl",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tomo-chan-is-a-girl.jpg"
@@ -7420,11 +5650,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tonikaku-kawaii.jpg"
     },
     {
-        "titre": "Top Boy",
-        "lien": "https://anime-sama.fr/catalogue/top-boy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/top-boy.jpg"
-    },
-    {
         "titre": "Toradora!",
         "lien": "https://anime-sama.fr/catalogue/toradora/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/toradora.jpg"
@@ -7433,11 +5658,6 @@
         "titre": "Toriko",
         "lien": "https://anime-sama.fr/catalogue/toriko",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/toriko.jpg"
-    },
-    {
-        "titre": "Tougen anki",
-        "lien": "https://anime-sama.fr/catalogue/tougen-anki",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tougen-anki.jpg"
     },
     {
         "titre": "Touhai",
@@ -7450,19 +5670,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tower-of-god.jpg"
     },
     {
-        "titre": "Trait Hoarder",
-        "lien": "https://anime-sama.fr/catalogue/trait-hoarder",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/trait-hoarder.jpg"
-    },
-    {
         "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
         "lien": "https://anime-sama.fr/catalogue/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs.jpg"
-    },
-    {
-        "titre": "Trash of the Count’s Family",
-        "lien": "https://anime-sama.fr/catalogue/trash-of-the-counts-family",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/trash-of-the-counts-family.jpg"
     },
     {
         "titre": "Tribe Nine",
@@ -7488,11 +5698,6 @@
         "titre": "True Beauty",
         "lien": "https://anime-sama.fr/catalogue/true-beauty",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/true-beauty0.jpg"
-    },
-    {
-        "titre": "True Education",
-        "lien": "https://anime-sama.fr/catalogue/true-education",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/true-education.jpg"
     },
     {
         "titre": "Tsue To Tsurugi No Wistoria",
@@ -7545,16 +5750,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/twin-star-exorcists.jpg"
     },
     {
-        "titre": "Tyrant of the Tower Defense Game",
-        "lien": "https://anime-sama.fr/catalogue/i-became-the-tyrant-of-a-defense-game",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-became-the-tyrant-of-a-defense-game.jpg"
-    },
-    {
-        "titre": "Uchikomi, L'Esprit Du Judo",
-        "lien": "https://anime-sama.fr/catalogue/uchikomi-lesprit-du-judo",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/uchikomi-lesprit-du-judo.jpg"
-    },
-    {
         "titre": "Ueno-san wa Bukiyou",
         "lien": "https://anime-sama.fr/catalogue/ueno-san-wa-bukiyou",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ueno-san-wa-bukiyou.jpg"
@@ -7575,11 +5770,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/umamusume-pretty-derby.jpg"
     },
     {
-        "titre": "Umbrella Academy",
-        "lien": "https://anime-sama.fr/catalogue/umbrella-academy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/umbrella-academy.jpg"
-    },
-    {
         "titre": "Umibe no Étranger",
         "lien": "https://anime-sama.fr/catalogue/umibe-no-etranger",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/umibe-no-etranger.jpg"
@@ -7593,11 +5783,6 @@
         "titre": "Un été avec Coo",
         "lien": "https://anime-sama.fr/catalogue/un-ete-avec-coo",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/un-ete-avec-coo.jpg"
-    },
-    {
-        "titre": "Un jour à Séoul",
-        "lien": "https://anime-sama.fr/catalogue/un-jour-a-seoul",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/un-jour-a-seoul.jpg"
     },
     {
         "titre": "Un-Go",
@@ -7640,11 +5825,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/unnamed-memory.jpg"
     },
     {
-        "titre": "unOrdinary",
-        "lien": "https://anime-sama.fr/catalogue/unordinary",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/unordinary.jpg"
-    },
-    {
         "titre": "UQ Holder!",
         "lien": "https://anime-sama.fr/catalogue/uq-holder",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/uq-holder.jpg"
@@ -7658,11 +5838,6 @@
         "titre": "Urusei Yatsura",
         "lien": "https://anime-sama.fr/catalogue/urusei-yatsura/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/urusei-yatsura.jpg"
-    },
-    {
-        "titre": "Usogui",
-        "lien": "https://anime-sama.fr/catalogue/usogui",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/usogui.jpg"
     },
     {
         "titre": "Utawarerumono",
@@ -7683,11 +5858,6 @@
         "titre": "Übel Blatt",
         "lien": "https://anime-sama.fr/catalogue/ubel-blatt",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ubel-blatt.jpg"
-    },
-    {
-        "titre": "Vagabond",
-        "lien": "https://anime-sama.fr/catalogue/vagabond",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vagabond.jpg"
     },
     {
         "titre": "Valérian & Laureline",
@@ -7730,29 +5900,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/versatile-mage.jpg"
     },
     {
-        "titre": "Vikings : Valhalla",
-        "lien": "https://anime-sama.fr/catalogue/vikings-valhalla",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vikings-valhalla.jpg"
-    },
-    {
-        "titre": "Villain To Kill",
-        "lien": "https://anime-sama.fr/catalogue/villain-to-kill",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/villain-to-kill.jpg"
-    },
-    {
-        "titre": "Villain Unrivaled",
-        "lien": "https://anime-sama.fr/catalogue/villain-unrivaled",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/villain-unrivaled.jpg"
-    },
-    {
         "titre": "Villainess Level 99",
         "lien": "https://anime-sama.fr/catalogue/villainess-level-99",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/villainess-level-99.jpg"
-    },
-    {
-        "titre": "Vincenzo",
-        "lien": "https://anime-sama.fr/catalogue/vincenzo",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vincenzo.jpg"
     },
     {
         "titre": "Vinland Saga",
@@ -7850,11 +6000,6 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/weathering-with-you.jpg"
     },
     {
-        "titre": "Webtoon Character Na Kang Lim",
-        "lien": "https://anime-sama.fr/catalogue/webtoon-character-na-kang-lim",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/webtoon-character-na-kang-lim.jpg"
-    },
-    {
         "titre": "Welcome To Demon School Iruma-kun",
         "lien": "https://anime-sama.fr/catalogue/welcome-to-demon-school-iruma-kun",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/welcome-to-demon-school-iruma-kun.jpg"
@@ -7880,24 +6025,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/white-album-2.jpg"
     },
     {
-        "titre": "White Blood",
-        "lien": "https://anime-sama.fr/catalogue/white-blood",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/white-blood.jpg"
-    },
-    {
-        "titre": "Why I Quit Being The Demon King",
-        "lien": "https://anime-sama.fr/catalogue/why-i-quit-being-the-demon-king",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/why-i-quit-being-the-demon-king.jpg"
-    },
-    {
         "titre": "Why Nobody Remembers My World?",
         "lien": "https://anime-sama.fr/catalogue/why-nobody-remembers-my-world",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/why-nobody-remembers-my-world.jpg"
-    },
-    {
-        "titre": "Wind Breaker",
-        "lien": "https://anime-sama.fr/catalogue/wind-breaker",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/wind-breaker.jpg"
     },
     {
         "titre": "Wind Breaker",
@@ -7935,29 +6065,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/world-trigger.jpg"
     },
     {
-        "titre": "Worn and Torn Newbie",
-        "lien": "https://anime-sama.fr/catalogue/worn-and-torn-newbie",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/worn-and-torn-newbie.jpg"
-    },
-    {
-        "titre": "Worthless regression",
-        "lien": "https://anime-sama.fr/catalogue/worthless-regression",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/worthless-regression.jpg"
-    },
-    {
         "titre": "Wotaku ni Koi wa Muzukashii",
         "lien": "https://anime-sama.fr/catalogue/wotaku-ni-koi-wa-muzukashii/",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/wotaku-ni-koi-wa-muzukashii.jpg"
-    },
-    {
-        "titre": "Writers Legacy",
-        "lien": "https://anime-sama.fr/catalogue/writers-legacy",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/writers-legacy.jpg"
-    },
-    {
-        "titre": "X and Ash",
-        "lien": "https://anime-sama.fr/catalogue/x-and-ash",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/x-and-ash.jpg"
     },
     {
         "titre": "X&Y",
@@ -7973,11 +6083,6 @@
         "titre": "Yakitate Japan",
         "lien": "https://anime-sama.fr/catalogue/yakitate-japan",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yakitate-japan.jpg"
-    },
-    {
-        "titre": "Yakuza Reincarnation",
-        "lien": "https://anime-sama.fr/catalogue/yakuza-reincarnation",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yakuza-reincarnation.jpg"
     },
     {
         "titre": "Yamada-kun to 7-nin no Majo",
@@ -8010,29 +6115,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yi-nian-yong-heng.jpg"
     },
     {
-        "titre": "Yo-Kai Watch",
-        "lien": "https://anime-sama.fr/catalogue/yo-kai-watch",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yo-kai-watch.jpg"
-    },
-    {
         "titre": "Yofukashi no Uta",
         "lien": "https://anime-sama.fr/catalogue/yofukashi-no-uta",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yofukashi-no-uta.jpg"
-    },
-    {
-        "titre": "Yomi no Tsugai",
-        "lien": "https://anime-sama.fr/catalogue/yomi-no-tsugai",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yomi-no-tsugai.jpg"
-    },
-    {
-        "titre": "Yomotsu Hegui, Shisha no Kuni no Kajitsu",
-        "lien": "https://anime-sama.fr/catalogue/yomotsu-hegui-shisha-no-kuni-no-kajitsu",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yomotsu-hegui-shisha-no-kuni-no-kajitsu.jpg"
-    },
-    {
-        "titre": "Yoru Ni Naru To Boku Wa",
-        "lien": "https://anime-sama.fr/catalogue/yoru-ni-naru-to-boku-wa",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yoru-ni-naru-to-boku-wa.jpg"
     },
     {
         "titre": "Yoru no Kurage wa Oyogenai",
@@ -8065,19 +6150,9 @@
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/your-name.jpg"
     },
     {
-        "titre": "Your Talent Is Mine",
-        "lien": "https://anime-sama.fr/catalogue/your-talent-is-mine/",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/your-talent-is-mine.jpg"
-    },
-    {
         "titre": "Youth Literature",
         "lien": "https://anime-sama.fr/catalogue/youth-literature",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/youth-literature.jpg"
-    },
-    {
-        "titre": "Youth of Flavor",
-        "lien": "https://anime-sama.fr/catalogue/youth-of-flavor",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/youth-of-flavor.jpg"
     },
     {
         "titre": "Yowamushi Pedal",
@@ -8158,10 +6233,5 @@
         "titre": "Zombie Land Saga",
         "lien": "https://anime-sama.fr/catalogue/zombie-land-saga",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/zombie-land-saga.jpg"
-    },
-    {
-        "titre": "Zomgan",
-        "lien": "https://anime-sama.fr/catalogue/zomgan",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/zomgan.jpg"
     }
 ]
