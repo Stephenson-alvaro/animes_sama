@@ -1,0 +1,43 @@
+name: Scraping Anime Sama
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Exécute tous les jours à minuit UTC
+  workflow_dispatch:  # Permet de lancer manuellement
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Exécuter le scraper
+        run: python scraper.py
+
+      - name: Supprimer l'ancien fichier animes.json (s'il existe)
+        run: |
+          if [ -f animes.json ]; then
+            rm animes.json
+          fi
+
+      - name: Déplacer le nouveau fichier animes.json
+        run: mv animes.json animes.json
+
+      - name: Commit et push des résultats
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add animes.json
+          git commit -m "Mise à jour des animes"
+          git push
+
+      - name: Sauvegarder le fichier JSON en tant qu'artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: animes-json
+          path: animes.json
