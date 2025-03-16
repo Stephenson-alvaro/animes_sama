@@ -1,58 +1,55 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import logging
-
-# Configurer le logging pour enregistrer les informations dans un fichier
-logging.basicConfig(filename='scraping.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # URL de base du site
 BASE_URL = "https://anime-sama.fr/catalogue?page="
 
 # Liste pour stocker les résultats
 animes = []
-
-# Définir le numéro de la première page
 page = 1
 
 while True:
     url = f"{BASE_URL}{page}"
-    logging.info(f"Scraping page {page}...")  # Remplacer print par logging
+    print(f"Scraping page {page}...")
 
-    # Récupération du contenu HTML
     response = requests.get(url)
     if response.status_code != 200:
-        logging.info(f"Fin du scraping à la page {page - 1}.")
-        break  # Arrêter si la page n'existe pas
+        print(f"Fin du scraping à la page {page - 1}.")
+        break
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Recherche des divs contenant les animes
-    found_anime = False  # Vérification pour arrêter quand il n'y a plus d'animes
+    # Utilisation d'un sélecteur CSS pour trouver les divs
+    # Remarquez que les classes avec ":" nécessitent d'être échappées avec "\\"
+    divs = soup.select("div.shrink-0.m-3.rounded.border-2.border-gray-400.border-opacity-50.shadow-2xl.shadow-black.hover\\:shadow-zinc-900.hover\\:opacity-80.bg-black.bg-opacity-40.transition-all.duration-200.cursor-pointer")
 
-    for div in soup.find_all("div", class_="shrink-0 m-3 rounded border-2 border-gray-400 border-opacity-50 shadow-2xl shadow-black hover:shadow-zinc-900 hover:opacity-80 bg-black bg-opacity-40 transition-all duration-200 cursor-pointer"):
+    found_anime = False
+
+    for div in divs:
+        # Vérification si la balise <p> contenant "Anime" existe dans la div
+        if not div.find("p", string=lambda t: t and "Anime" in t):
+            continue
+
         a_tag = div.find("a", class_="flex divide-x")
-
         if a_tag:
-            lien = a_tag["href"]  # Récupération du lien
-
+            lien = a_tag.get("href", "Lien non trouvé")
             h1_tag = a_tag.find("h1", class_="text-white font-bold uppercase text-md line-clamp-2")
             titre = h1_tag.text.strip() if h1_tag else "Titre inconnu"
-
             img_tag = a_tag.find("img", class_="imageCarteHorizontale object-cover transition-all duration-200 cursor-pointer")
-            image = img_tag["src"] if img_tag else "Image non trouvée"
+            image = img_tag.get("src", "Image non trouvée")
 
             animes.append({"titre": titre, "lien": lien, "image": image})
             found_anime = True
 
-    if not found_anime:  # Si aucune anime n'est trouvé, arrêter
-        logging.info(f"Aucune donnée trouvée sur la page {page}. Arrêt du scraping.")
+    if not found_anime:
+        print(f"Aucune donnée trouvée sur la page {page}. Arrêt du scraping.")
         break
 
-    page += 1  # Passer à la page suivante
+    page += 1
 
 # Sauvegarde des résultats dans un fichier JSON
 with open("animes.json", "w", encoding="utf-8") as f:
     json.dump(animes, f, ensure_ascii=False, indent=4)
 
-logging.info(f"Scraping terminé ! {len(animes)} animes enregistrés dans animes.json.")
+print(f"Scraping terminé ! {len(animes)} animes enregistrés dans animes.json.")
