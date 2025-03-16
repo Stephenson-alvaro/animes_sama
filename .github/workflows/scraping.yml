@@ -26,8 +26,8 @@ jobs:
 
       - name: Supprimer l'ancien fichier JSON
         run: |
-          if [ -f "seasonal_animes.json" ]; then
-            rm seasonal_animes.json
+          if [ -f "animes.json" ]; then
+            rm animes.json
           fi
 
       - name: Run scraping script
