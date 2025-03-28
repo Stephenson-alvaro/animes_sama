@@ -24,6 +24,7 @@ while True:
 
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
+        print(response.status_code)
         print(f"Fin du scraping à la page {page - 1}.")
         break
 
