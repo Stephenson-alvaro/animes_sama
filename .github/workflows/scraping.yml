@@ -31,8 +31,6 @@ jobs:
       - name: Ajouter le fichier JSON et committer
         run: |
           # Ajoute et commite le fichier JSON généré par le scraper
-          git config --global user.name "Your GitHub Username"
-          git config --global user.email "youremail@example.com"
-          git add scraped_data.json  # Le fichier JSON généré par ton script
+          git add animes.json  # Le fichier JSON généré par ton script
           git commit -m "Ajout des données scrappées"
           git push
