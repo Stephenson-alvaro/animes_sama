@@ -34,3 +34,5 @@ jobs:
           git add animes.json  # Le fichier JSON généré par ton script
           git commit -m "Ajout des données scrappées"
           git push
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub automatique
