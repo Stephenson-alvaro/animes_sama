@@ -57,7 +57,7 @@ async def scrape():
         page += 1
 
     # Sauvegarder les résultats dans un fichier JSON
-    with open("storage/data/animes.json", "w", encoding="utf-8") as f:
+    with open("animes.json", "w", encoding="utf-8") as f:
         json.dump(animes, f, ensure_ascii=False, indent=4)
     print(f"Scraping terminé. {len(animes)} animes récupérés.")
 
