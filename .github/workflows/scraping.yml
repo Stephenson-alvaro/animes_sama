@@ -28,11 +28,15 @@ jobs:
         run: |
           python scraper.py  # Exécute ton script scraper.py
 
+      - name: Configure Git user
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
       - name: Ajouter le fichier JSON et committer
         run: |
-          # Ajoute et commite le fichier JSON généré par le scraper
           git add animes.json  # Le fichier JSON généré par ton script
           git commit -m "Ajout des données scrappées"
           git push
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub automatique
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub automatique
